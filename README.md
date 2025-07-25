@@ -1,5 +1,5 @@
 # DeQue Location Finder
-[Home Page](frontend/public/screenshots/1.jpg)
+![Home Page](frontend/public/screenshots/1.jpg)
 DeQue Location Finder is a web application that combines **Foursquare API**, **Leaflet Maps**, and a **chat-based interface** to find and display nearby places (cafes, restaurants, bars, etc.) based on user queries and their current location.  
 It also integrates **OpenRouteService (ORS)** for route planning and directions.
 
