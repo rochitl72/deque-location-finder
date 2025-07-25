@@ -1,0 +1,201 @@
+{
+  "timestamp": "2025-07-24T12:04:00.236736",
+  "query": "bus stand",
+  "latitude": 13.076022904501773,
+  "longitude": 80.23506088462457,
+  "results": [
+    {
+      "fsq_id": "52a35e3411d26e7b4c1a7ff2",
+      "categories": [
+        {
+          "id": 13377,
+          "name": "Vegan and Vegetarian Restaurant",
+          "short_name": "Vegan and Vegetarian Restaurant",
+          "plural_name": "Vegan and Vegetarian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/vegetarian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 340,
+      "geocodes": {
+        "main": {
+          "latitude": 13.078765,
+          "longitude": 80.23343
+        },
+        "roof": {
+          "latitude": 13.078765,
+          "longitude": 80.23343
+        }
+      },
+      "link": "/v3/places/52a35e3411d26e7b4c1a7ff2",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "600092, Tamil Nadu",
+        "postcode": "600092",
+        "region": "Tamil Nadu"
+      },
+      "name": "Choice Business",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "50e4e80de4b08bda2be0827e",
+      "categories": [
+        {
+          "id": 19042,
+          "name": "Bus Station",
+          "short_name": "Bus Station",
+          "plural_name": "Bus Stations",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/busstation_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 846,
+      "geocodes": {
+        "main": {
+          "latitude": 13.083767,
+          "longitude": 80.234809
+        },
+        "roof": {
+          "latitude": 13.083767,
+          "longitude": 80.234809
+        }
+      },
+      "link": "/v3/places/50e4e80de4b08bda2be0827e",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "931735",
+        "postcode": "931735"
+      },
+      "name": "New avadi road bus stop",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "5d847b5e32da49c137eb88f9",
+      "categories": [
+        {
+          "id": 17000,
+          "name": "Retail",
+          "short_name": "Retail",
+          "plural_name": "Retail",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 938,
+      "geocodes": {
+        "main": {
+          "latitude": 13.067942,
+          "longitude": 80.237586
+        }
+      },
+      "link": "/v3/places/5d847b5e32da49c137eb88f9",
+      "location": {
+        "address": "10 1Stfloor, 2Ndave, Harrington Road, Chetput",
+        "address_extended": "1st Floor",
+        "country": "IN",
+        "formatted_address": "10 1Stfloor, 2Ndave, Harrington Road, Chetput, Chennai 600031, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600031",
+        "region": "Tamil Nadu"
+      },
+      "name": "Niche Business Centre",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "2c66ef2fc16a4ecd6958706e",
+      "categories": [
+        {
+          "id": 11046,
+          "name": "Banking and Finance",
+          "short_name": "Banking and Finance",
+          "plural_name": "Banking and Finances",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/financial_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 962,
+      "geocodes": {
+        "main": {
+          "latitude": 13.083734,
+          "longitude": 80.239115
+        },
+        "roof": {
+          "latitude": 13.083734,
+          "longitude": 80.239115
+        }
+      },
+      "link": "/v3/places/2c66ef2fc16a4ecd6958706e",
+      "location": {
+        "address": "Kilpauk Garden Road",
+        "country": "IN",
+        "formatted_address": "Kilpauk Garden Road, Chennai 600010, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600010",
+        "region": "Tamil Nadu"
+      },
+      "name": "Standard Chartered Bank",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "76d83979941642966a16a12d",
+      "categories": [
+        {
+          "id": 11000,
+          "name": "Business and Professional Services",
+          "short_name": "Business and Professional Services",
+          "plural_name": "Business and Professional Services",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 317,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 13.076499,
+          "longitude": 80.237951
+        },
+        "main": {
+          "latitude": 13.076473,
+          "longitude": 80.237956
+        }
+      },
+      "link": "/v3/places/76d83979941642966a16a12d",
+      "location": {
+        "address": "No 275, Golden Enclave, Poonamallee High Road, Kilpauk",
+        "country": "IN",
+        "formatted_address": "No 275, Golden Enclave, Poonamallee High Road, Kilpauk, Chennai 600031, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600031",
+        "region": "Tamil Nadu"
+      },
+      "name": "Impakt Business Systems",
+      "related_places": {}
+    }
+  ]
+}

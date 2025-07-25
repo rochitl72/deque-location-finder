@@ -1,0 +1,205 @@
+{
+  "timestamp": "2025-07-24T09:42:05.399933",
+  "query": "Find restaurants nearby",
+  "latitude": 13.0067,
+  "longitude": 80.257,
+  "results": [
+    {
+      "fsq_id": "45b9c17cd645425ebd5c52a6",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 94,
+      "geocodes": {
+        "main": {
+          "latitude": 13.00688,
+          "longitude": 80.256151
+        },
+        "roof": {
+          "latitude": 13.00688,
+          "longitude": 80.256151
+        }
+      },
+      "link": "/v3/places/45b9c17cd645425ebd5c52a6",
+      "location": {
+        "address": "Gandhi Nagar 1st Main Road",
+        "country": "IN",
+        "formatted_address": "Gandhi Nagar 1st Main Road, Chennai 600020, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600020",
+        "region": "Tamil Nadu"
+      },
+      "name": "Shastri Nagar Sharks Restaurants",
+      "related_places": {}
+    },
+    {
+      "fsq_id": "2621496f779a435ecf2d0bd5",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 261,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 13.008419,
+          "longitude": 80.258857
+        },
+        "main": {
+          "latitude": 13.008485,
+          "longitude": 80.258567
+        },
+        "roof": {
+          "latitude": 13.008485,
+          "longitude": 80.258567
+        }
+      },
+      "link": "/v3/places/2621496f779a435ecf2d0bd5",
+      "location": {
+        "address": "103/48, Voora Sree Terrace, 1st Main Road",
+        "country": "IN",
+        "formatted_address": "103/48, Voora Sree Terrace, 1st Main Road, Chennai 600020, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600020",
+        "region": "Tamil Nadu"
+      },
+      "name": "The Rendezvous Restaurants",
+      "related_places": {}
+    },
+    {
+      "fsq_id": "d210d0163d634ebfa28cb702",
+      "categories": [],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 907,
+      "geocodes": {
+        "main": {
+          "latitude": 12.999331,
+          "longitude": 80.253393
+        },
+        "roof": {
+          "latitude": 12.999331,
+          "longitude": 80.253393
+        }
+      },
+      "link": "/v3/places/d210d0163d634ebfa28cb702",
+      "location": {
+        "country": "IN",
+        "formatted_address": "600083, Tamil Nadu",
+        "postcode": "600083",
+        "region": "Tamil Nadu"
+      },
+      "name": "Hotchips Restaurants P l",
+      "related_places": {}
+    },
+    {
+      "fsq_id": "31af89da4aaa4849afb6ffd1",
+      "categories": [
+        {
+          "id": 13003,
+          "name": "Bar",
+          "short_name": "Bar",
+          "plural_name": "Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3052,
+      "geocodes": {
+        "main": {
+          "latitude": 13.031877,
+          "longitude": 80.245729
+        },
+        "roof": {
+          "latitude": 13.031877,
+          "longitude": 80.245729
+        }
+      },
+      "link": "/v3/places/31af89da4aaa4849afb6ffd1",
+      "location": {
+        "address": "9 Cenetoph Road",
+        "country": "IN",
+        "formatted_address": "9 Cenetoph Road, Chennai 600018, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600018",
+        "region": "Tamil Nadu"
+      },
+      "name": "Aroma Restaurants and Resorts P. Ltd.",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "3bcde5cbfb5141c579b65a98",
+      "categories": [
+        {
+          "id": 17000,
+          "name": "Retail",
+          "short_name": "Retail",
+          "plural_name": "Retail",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2721,
+      "geocodes": {
+        "main": {
+          "latitude": 13.031095,
+          "longitude": 80.254778
+        },
+        "roof": {
+          "latitude": 13.031095,
+          "longitude": 80.254778
+        }
+      },
+      "link": "/v3/places/3bcde5cbfb5141c579b65a98",
+      "location": {
+        "address": "37/20, Sriram Colony, Abhirampuram",
+        "country": "IN",
+        "formatted_address": "37/20, Sriram Colony, Abhirampuram, Chennai 600018, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600018",
+        "region": "Tamil Nadu"
+      },
+      "name": "Manthra Path Finders",
+      "related_places": {}
+    }
+  ]
+}

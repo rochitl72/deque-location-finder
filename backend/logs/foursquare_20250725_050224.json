@@ -1,0 +1,231 @@
+{
+  "timestamp": "2025-07-25T05:02:24.622228",
+  "query": "cafe near me",
+  "latitude": 13.07600184681672,
+  "longitude": 80.23502895052589,
+  "results": [
+    {
+      "fsq_id": "5b3aff5f0313200039845ba9",
+      "categories": [
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "22847906-dd9a-4a5a-a1ce-e545ef1826aa",
+          "name": "Caf\u00e9 Coffee Day"
+        }
+      ],
+      "closed_bucket": "LikelyOpen",
+      "distance": 366,
+      "geocodes": {
+        "main": {
+          "latitude": 13.079008,
+          "longitude": 80.233424
+        },
+        "roof": {
+          "latitude": 13.079008,
+          "longitude": 80.233424
+        }
+      },
+      "link": "/v3/places/5b3aff5f0313200039845ba9",
+      "location": {
+        "address": "Sunrise Apartments",
+        "country": "IN",
+        "cross_street": "New Avadi Rd, Kilpauk, Avadi,",
+        "formatted_address": "Sunrise Apartments (New Avadi Rd, Kilpauk, Avadi,), 600030, Tamil Nadu",
+        "postcode": "600030",
+        "region": "Tamil Nadu"
+      },
+      "name": "Caf\u00e9 Coffee Day",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "659051b6d0e43a2f38009462",
+      "categories": [
+        {
+          "id": 10041,
+          "name": "Rock Club",
+          "short_name": "Rock Club",
+          "plural_name": "Rock Clubs",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_rockclub_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1365,
+      "geocodes": {
+        "main": {
+          "latitude": 13.065951,
+          "longitude": 80.242288
+        }
+      },
+      "link": "/v3/places/659051b6d0e43a2f38009462",
+      "location": {
+        "address": "Ground Floor, 144, Sterling Road",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "Ground Floor, 144, Sterling Road, Chennai 600034, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600034",
+        "region": "Tamil Nadu"
+      },
+      "name": "Hard Rock Cafe Chennai",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "541447de498e60ee78c88c44",
+      "categories": [
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1302,
+      "geocodes": {
+        "main": {
+          "latitude": 13.064827,
+          "longitude": 80.239098
+        },
+        "roof": {
+          "latitude": 13.064827,
+          "longitude": 80.239098
+        }
+      },
+      "link": "/v3/places/541447de498e60ee78c88c44",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "941735",
+        "postcode": "941735"
+      },
+      "name": "Crisp Cafe",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4f27f16be4b01133cc15cb80",
+      "categories": [
+        {
+          "id": 13046,
+          "name": "Ice Cream Parlor",
+          "short_name": "Ice Cream",
+          "plural_name": "Ice Cream Parlors",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 495,
+      "geocodes": {
+        "main": {
+          "latitude": 13.076321,
+          "longitude": 80.239519
+        },
+        "roof": {
+          "latitude": 13.076321,
+          "longitude": 80.239519
+        }
+      },
+      "link": "/v3/places/4f27f16be4b01133cc15cb80",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "Cafe Quench",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4c5aa215b1aa9c7402640c49",
+      "categories": [
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "22847906-dd9a-4a5a-a1ce-e545ef1826aa",
+          "name": "Caf\u00e9 Coffee Day"
+        }
+      ],
+      "closed_bucket": "LikelyOpen",
+      "distance": 704,
+      "geocodes": {
+        "main": {
+          "latitude": 13.082105,
+          "longitude": 80.233326
+        },
+        "roof": {
+          "latitude": 13.082105,
+          "longitude": 80.233326
+        }
+      },
+      "link": "/v3/places/4c5aa215b1aa9c7402640c49",
+      "location": {
+        "address": "Mummy Daddy",
+        "country": "IN",
+        "cross_street": "Kilpauk",
+        "formatted_address": "Mummy Daddy (Kilpauk), Chennai 941735, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "941735",
+        "region": "Tamil Nadu"
+      },
+      "name": "Caf\u00e9 Coffee Day",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    }
+  ]
+}

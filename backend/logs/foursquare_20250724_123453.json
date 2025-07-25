@@ -1,0 +1,244 @@
+{
+  "timestamp": "2025-07-24T12:34:53.127498",
+  "query": "lunch",
+  "latitude": 13.075959379141956,
+  "longitude": 80.23501936462465,
+  "results": [
+    {
+      "fsq_id": "4c55a0d84623be9a7a10cbf4",
+      "categories": [
+        {
+          "id": 13002,
+          "name": "Bakery",
+          "short_name": "Bakery",
+          "plural_name": "Bakeries",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1551,
+      "geocodes": {
+        "main": {
+          "latitude": 13.067237,
+          "longitude": 80.245942
+        },
+        "roof": {
+          "latitude": 13.067237,
+          "longitude": 80.245942
+        }
+      },
+      "link": "/v3/places/4c55a0d84623be9a7a10cbf4",
+      "location": {
+        "address": "45 College Road",
+        "address_extended": "Near Madras Alliance Francaise, Nungambakkam",
+        "country": "IN",
+        "cross_street": "Nungambakkam",
+        "formatted_address": "45 College Road (Nungambakkam), Chennai 600034, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600034",
+        "region": "Tamil Nadu"
+      },
+      "name": "Cream Centre",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4f3529ece4b088178949efb2",
+      "categories": [
+        {
+          "id": 13095,
+          "name": "Cajun and Creole Restaurant",
+          "short_name": "Cajun / Creole",
+          "plural_name": "Cajun and Creole Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cajun_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13218,
+          "name": "North Indian Restaurant",
+          "short_name": "North Indian",
+          "plural_name": "North Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13309,
+          "name": "Middle Eastern Restaurant",
+          "short_name": "Middle Eastern",
+          "plural_name": "Middle Eastern Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/middleeastern_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1328,
+      "geocodes": {
+        "main": {
+          "latitude": 13.083554,
+          "longitude": 80.225546
+        },
+        "roof": {
+          "latitude": 13.083554,
+          "longitude": 80.225546
+        }
+      },
+      "link": "/v3/places/4f3529ece4b088178949efb2",
+      "location": {
+        "address": "119 D Block, 1st Main Road",
+        "country": "IN",
+        "cross_street": "1st Main Road,Chintamani,Anna Nagar East",
+        "formatted_address": "119 D Block, 1st Main Road (1st Main Road,Chintamani,Anna Nagar East), Chennai 600102, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600102",
+        "region": "Tamil Nadu"
+      },
+      "name": "Zaitoon",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "56f6a91a498e3357a4ad4c99",
+      "categories": [
+        {
+          "id": 13377,
+          "name": "Vegan and Vegetarian Restaurant",
+          "short_name": "Vegan and Vegetarian Restaurant",
+          "plural_name": "Vegan and Vegetarian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/vegetarian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 842,
+      "geocodes": {
+        "main": {
+          "latitude": 13.083223,
+          "longitude": 80.237586
+        },
+        "roof": {
+          "latitude": 13.083223,
+          "longitude": 80.237586
+        }
+      },
+      "link": "/v3/places/56f6a91a498e3357a4ad4c99",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "Chennai 083125, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "083125",
+        "region": "Tamil Nadu"
+      },
+      "name": "Ratna Cafe",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4c6699a3e1da1b8d5e4d9bc3",
+      "categories": [
+        {
+          "id": 13002,
+          "name": "Bakery",
+          "short_name": "Bakery",
+          "plural_name": "Bakeries",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1454,
+      "geocodes": {
+        "main": {
+          "latitude": 13.072124,
+          "longitude": 80.24771
+        },
+        "roof": {
+          "latitude": 13.072124,
+          "longitude": 80.24771
+        }
+      },
+      "link": "/v3/places/4c6699a3e1da1b8d5e4d9bc3",
+      "location": {
+        "address": "18 Dr Tv Road",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "18 Dr Tv Road, Chennai 600031, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600031",
+        "region": "Tamil Nadu"
+      },
+      "name": "Shree Mithai",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4c80d739f9b79c747ddd0e45",
+      "categories": [
+        {
+          "id": 13055,
+          "name": "Fried Chicken Joint",
+          "short_name": "Fried Chicken",
+          "plural_name": "Fried Chicken Joints",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/friedchicken_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "short_name": "Fast Food",
+          "plural_name": "Fast Food Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "ab4beec0-d68a-012e-5619-003048cad9da",
+          "name": "KFC"
+        }
+      ],
+      "closed_bucket": "LikelyOpen",
+      "distance": 892,
+      "geocodes": {
+        "main": {
+          "latitude": 13.072318,
+          "longitude": 80.227674
+        }
+      },
+      "link": "/v3/places/4c80d739f9b79c747ddd0e45",
+      "location": {
+        "address": "Ampa Mall",
+        "country": "IN",
+        "cross_street": "Aminjakarai",
+        "formatted_address": "Ampa Mall (Aminjakarai), Chennai 941735, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "941735",
+        "region": "Tamil Nadu"
+      },
+      "name": "KFC",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    }
+  ]
+}

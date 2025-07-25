@@ -1,0 +1,211 @@
+{
+  "timestamp": "2025-07-24T14:47:51.790870",
+  "query": "big cafe near me ",
+  "latitude": 13.123571874386323,
+  "longitude": 80.15245704957638,
+  "results": [
+    {
+      "fsq_id": "50081711e4b0b9bb92828ef9",
+      "categories": [
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 834,
+      "geocodes": {
+        "main": {
+          "latitude": 13.117906,
+          "longitude": 80.15732
+        },
+        "roof": {
+          "latitude": 13.117906,
+          "longitude": 80.15732
+        }
+      },
+      "link": "/v3/places/50081711e4b0b9bb92828ef9",
+      "location": {
+        "address": "1 Redhills Road, Sv",
+        "country": "IN",
+        "cross_street": "Oragadam, Ambattur",
+        "formatted_address": "1 Redhills Road, Sv (Oragadam, Ambattur), Chennai 600053, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "Java Cafe",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "63e509b036fdc660e38ed1ef",
+      "categories": [
+        {
+          "id": 13072,
+          "name": "Asian Restaurant",
+          "short_name": "Asian",
+          "plural_name": "Asian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1390,
+      "geocodes": {
+        "main": {
+          "latitude": 13.111493,
+          "longitude": 80.15581
+        }
+      },
+      "link": "/v3/places/63e509b036fdc660e38ed1ef",
+      "location": {
+        "address": "Gubera Munuswammy Street Nanganallur",
+        "country": "IN",
+        "cross_street": "karunanithi nagar",
+        "formatted_address": "Gubera Munuswammy Street Nanganallur (karunanithi nagar), Chennai 600061, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600061",
+        "region": "Tamil Nadu"
+      },
+      "name": "Cafe Coffee",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "301678ff3ca24d774ec3279e",
+      "categories": [
+        {
+          "id": 17000,
+          "name": "Retail",
+          "short_name": "Retail",
+          "plural_name": "Retail",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 270,
+      "geocodes": {
+        "main": {
+          "latitude": 13.121968,
+          "longitude": 80.150582
+        },
+        "roof": {
+          "latitude": 13.121968,
+          "longitude": 80.150582
+        }
+      },
+      "link": "/v3/places/301678ff3ca24d774ec3279e",
+      "location": {
+        "address": "No 53/81 Mounswamy Street, Asha Vikram Apartment, Sathya Narayana Street, Venkatapuram, Vijayalakshmi Puram",
+        "country": "IN",
+        "formatted_address": "No 53/81 Mounswamy Street, Asha Vikram Apartment, Sathya Narayana Street, Venkatapuram, Vijayalakshmi Puram, Chennai 600053, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "I Net Cafe",
+      "related_places": {}
+    },
+    {
+      "fsq_id": "d11e6ebe73bc49db17ddda81",
+      "categories": [
+        {
+          "id": 17000,
+          "name": "Retail",
+          "short_name": "Retail",
+          "plural_name": "Retail",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 270,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 13.121959,
+          "longitude": 80.150645
+        },
+        "main": {
+          "latitude": 13.121968,
+          "longitude": 80.150582
+        },
+        "roof": {
+          "latitude": 13.121968,
+          "longitude": 80.150582
+        }
+      },
+      "link": "/v3/places/d11e6ebe73bc49db17ddda81",
+      "location": {
+        "address": "53/81C, Mouna Swamy Majan Street",
+        "country": "IN",
+        "formatted_address": "53/81C, Mouna Swamy Majan Street, Chennai 600053, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "Net Cafe",
+      "related_places": {}
+    },
+    {
+      "fsq_id": "3471de45ebfe4094942ba086",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 274,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 13.123501,
+          "longitude": 80.149854
+        },
+        "main": {
+          "latitude": 13.123346,
+          "longitude": 80.149935
+        },
+        "roof": {
+          "latitude": 13.123346,
+          "longitude": 80.149935
+        }
+      },
+      "link": "/v3/places/3471de45ebfe4094942ba086",
+      "location": {
+        "address": "No 31, Redhills Road, Ambatt",
+        "country": "IN",
+        "formatted_address": "No 31, Redhills Road, Ambatt, Chennai 600053, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "Sri Ramas Cafe",
+      "related_places": {}
+    }
+  ]
+}

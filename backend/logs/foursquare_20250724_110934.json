@@ -1,0 +1,155 @@
+{
+  "timestamp": "2025-07-24T11:09:34.608541",
+  "query": "Find top cafes",
+  "latitude": 13.0067,
+  "longitude": 80.257,
+  "results": [
+    {
+      "fsq_id": "53e655b7498e2ba00df95ef0",
+      "categories": [
+        {
+          "id": 13027,
+          "name": "Bistro",
+          "short_name": "Bistro",
+          "plural_name": "Bistros",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1502,
+      "geocodes": {
+        "main": {
+          "latitude": 12.998057,
+          "longitude": 80.267595
+        },
+        "roof": {
+          "latitude": 12.998057,
+          "longitude": 80.267595
+        }
+      },
+      "link": "/v3/places/53e655b7498e2ba00df95ef0",
+      "location": {
+        "address": "E-147, 2nd Avenue",
+        "country": "IN",
+        "cross_street": "Besant Nagar",
+        "formatted_address": "E-147, 2nd Avenue (Besant Nagar), Chennai 600090, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600090",
+        "region": "Tamil Nadu"
+      },
+      "name": "Jonah's Bistro",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "622b3d8905dbdb24d766eee7",
+      "categories": [
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 802,
+      "geocodes": {
+        "main": {
+          "latitude": 13.001466,
+          "longitude": 80.251897
+        }
+      },
+      "link": "/v3/places/622b3d8905dbdb24d766eee7",
+      "location": {
+        "address": "23 Kamaraj Avenue 1st St, Kasturba",
+        "country": "IN",
+        "cross_street": "Adyar",
+        "formatted_address": "23 Kamaraj Avenue 1st St, Kasturba (Adyar), Chennai 600020, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600020",
+        "region": "Tamil Nadu"
+      },
+      "name": "Starbucks",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "5107c345e4b0f45b09ed78e9",
+      "categories": [
+        {
+          "id": 13032,
+          "name": "Cafe, Coffee, and Tea House",
+          "short_name": "Cafe, Coffee, and Tea House",
+          "plural_name": "Cafes, Coffee, and Tea Houses",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4667,
+      "geocodes": {
+        "main": {
+          "latitude": 12.991324,
+          "longitude": 80.216746
+        },
+        "roof": {
+          "latitude": 12.991324,
+          "longitude": 80.216746
+        }
+      },
+      "link": "/v3/places/5107c345e4b0f45b09ed78e9",
+      "location": {
+        "address": "Phoenix Market City, Velachery Main Road, Velachery",
+        "address_extended": "1st Floor",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "Phoenix Market City, Velachery Main Road, Velachery, Chennai 600042, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600042",
+        "region": "Tamil Nadu"
+      },
+      "name": "The Coffee Bean and Tea Leaf",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4fe16257e4b0e4cc311bb9ab",
+          "categories": [
+            {
+              "id": 11000,
+              "name": "Business and Professional Services",
+              "short_name": "Business and Professional Services",
+              "plural_name": "Business and Professional Services",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Phoenix Market City"
+        }
+      },
+      "timezone": "Asia/Kolkata"
+    }
+  ]
+}

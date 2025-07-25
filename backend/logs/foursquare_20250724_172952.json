@@ -1,0 +1,205 @@
+{
+  "timestamp": "2025-07-24T17:29:52.544031",
+  "query": "coffe shop near me ",
+  "latitude": 13.123581903235742,
+  "longitude": 80.15249047656205,
+  "results": [
+    {
+      "fsq_id": "5e341655d273510008f4317a",
+      "categories": [
+        {
+          "id": 13334,
+          "name": "Sandwich Spot",
+          "short_name": "Sandwich Spot",
+          "plural_name": "Sandwich Spots",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 306,
+      "geocodes": {
+        "main": {
+          "latitude": 13.122486,
+          "longitude": 80.149749
+        },
+        "roof": {
+          "latitude": 13.122486,
+          "longitude": 80.149749
+        }
+      },
+      "link": "/v3/places/5e341655d273510008f4317a",
+      "location": {
+        "address": "Ambattur O.T",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "Ambattur O.T, Chennai 600053, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "Sandwich Express Shop",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "5c9f36f6625a66002c754495",
+      "categories": [
+        {
+          "id": 13059,
+          "name": "Juice Bar",
+          "short_name": "Juice Bar",
+          "plural_name": "Juice Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/juicebar_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 436,
+      "geocodes": {
+        "main": {
+          "latitude": 13.120244,
+          "longitude": 80.150563
+        },
+        "roof": {
+          "latitude": 13.120244,
+          "longitude": 80.150563
+        }
+      },
+      "link": "/v3/places/5c9f36f6625a66002c754495",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "Chennai 600053, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "Lassi Shop",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4ea17ceb722ec75adddd9436",
+      "categories": [
+        {
+          "id": 11124,
+          "name": "Office",
+          "short_name": "Office",
+          "plural_name": "Offices",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 521,
+      "geocodes": {
+        "main": {
+          "latitude": 13.12222,
+          "longitude": 80.148039
+        },
+        "roof": {
+          "latitude": 13.12222,
+          "longitude": 80.148039
+        }
+      },
+      "link": "/v3/places/4ea17ceb722ec75adddd9436",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "Xerox Shop(Above Indian Bank)",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "50081a16e4b0dde0252cb42f",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 748,
+      "geocodes": {
+        "main": {
+          "latitude": 13.129346,
+          "longitude": 80.15631
+        },
+        "roof": {
+          "latitude": 13.129346,
+          "longitude": 80.15631
+        }
+      },
+      "link": "/v3/places/50081a16e4b0dde0252cb42f",
+      "location": {
+        "address": "Chevalier Shivaji Ganesan Street, Padi Pudur Nagar, Oragadam",
+        "country": "IN",
+        "cross_street": "Oragadam, Ambattur",
+        "formatted_address": "Chevalier Shivaji Ganesan Street, Padi Pudur Nagar, Oragadam (Oragadam, Ambattur), Chennai 600053, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "Java Coffee Shop",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "515fe8d4e4b0db8cd6263e21",
+      "categories": [
+        {
+          "id": 13072,
+          "name": "Asian Restaurant",
+          "short_name": "Asian",
+          "plural_name": "Asian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 833,
+      "geocodes": {
+        "main": {
+          "latitude": 13.117906,
+          "longitude": 80.15732
+        },
+        "roof": {
+          "latitude": 13.117906,
+          "longitude": 80.15732
+        }
+      },
+      "link": "/v3/places/515fe8d4e4b0db8cd6263e21",
+      "location": {
+        "address": "Ambit It Park",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "Ambit It Park"
+      },
+      "name": "Briyani Shop",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    }
+  ]
+}

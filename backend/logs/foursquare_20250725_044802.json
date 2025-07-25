@@ -1,0 +1,195 @@
+{
+  "timestamp": "2025-07-25T04:48:02.928705",
+  "query": "caafe near me",
+  "latitude": 13.075988618335328,
+  "longitude": 80.23500116851973,
+  "results": [
+    {
+      "fsq_id": "4c5d5276857ca593e873cccb",
+      "categories": [
+        {
+          "id": 17043,
+          "name": "Clothing Store",
+          "short_name": "Apparel",
+          "plural_name": "Clothing Stores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 79,
+      "geocodes": {
+        "main": {
+          "latitude": 13.075884,
+          "longitude": 80.235643
+        },
+        "roof": {
+          "latitude": 13.075884,
+          "longitude": 80.235643
+        }
+      },
+      "link": "/v3/places/4c5d5276857ca593e873cccb",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "075857",
+        "postcode": "075857"
+      },
+      "name": "Mensclub Clothing Company",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "57efa535498ef61533b06161",
+      "categories": [
+        {
+          "id": 11109,
+          "name": "Laboratory",
+          "short_name": "Laboratory",
+          "plural_name": "Laboratories",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 188,
+      "geocodes": {
+        "main": {
+          "latitude": 13.07596,
+          "longitude": 80.236604
+        },
+        "roof": {
+          "latitude": 13.07596,
+          "longitude": 80.236604
+        }
+      },
+      "link": "/v3/places/57efa535498ef61533b06161",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "236746",
+        "postcode": "236746"
+      },
+      "name": "Medall",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "51188649e4b0805e2052ce26",
+      "categories": [
+        {
+          "id": 15014,
+          "name": "Hospital",
+          "short_name": "Hospital",
+          "plural_name": "Hospitals",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 277,
+      "geocodes": {
+        "main": {
+          "latitude": 13.075705,
+          "longitude": 80.237495
+        },
+        "roof": {
+          "latitude": 13.075705,
+          "longitude": 80.237495
+        }
+      },
+      "link": "/v3/places/51188649e4b0805e2052ce26",
+      "location": {
+        "address": "New Avadi Road",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "New Avadi Road, 075769",
+        "postcode": "075769"
+      },
+      "name": "Sundaram Medical Foundation",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "5b434d5af62f2b002c391181",
+      "categories": [
+        {
+          "id": 19047,
+          "name": "Rail Station",
+          "short_name": "Rail Station",
+          "plural_name": "Rail Stations",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/trainstation_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 284,
+      "geocodes": {
+        "main": {
+          "latitude": 13.075084,
+          "longitude": 80.232515
+        }
+      },
+      "link": "/v3/places/5b434d5af62f2b002c391181",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "931735, Tamil Nadu",
+        "postcode": "931735",
+        "region": "Tamil Nadu"
+      },
+      "name": "Pachaiyappa's Metro",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "6141c5c1db010233d62c1fbd",
+      "categories": [
+        {
+          "id": 15015,
+          "name": "Maternity Clinic",
+          "short_name": "Maternity Clinic",
+          "plural_name": "Maternity Clinics",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 352,
+      "geocodes": {
+        "main": {
+          "latitude": 13.07732,
+          "longitude": 80.23796
+        }
+      },
+      "link": "/v3/places/6141c5c1db010233d62c1fbd",
+      "location": {
+        "address": "Taylors Road",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "Taylors Road, Chennai 600010, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600010",
+        "region": "Tamil Nadu"
+      },
+      "name": "Ak Meds Clinic",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    }
+  ]
+}

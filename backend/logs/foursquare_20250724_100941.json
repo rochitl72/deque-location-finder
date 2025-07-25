@@ -1,0 +1,234 @@
+{
+  "query": "Find pizza places",
+  "results": [
+    {
+      "fsq_id": "515d966ee4b0ff17492e6d5f",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "short_name": "Pizza",
+          "plural_name": "Pizzerias",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "short_name": "Fast Food",
+          "plural_name": "Fast Food Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "ab4afc60-d68a-012e-5619-003048cad9da",
+          "name": "Domino's Pizza"
+        }
+      ],
+      "closed_bucket": "LikelyOpen",
+      "distance": 615,
+      "geocodes": {
+        "main": {
+          "latitude": 13.002041,
+          "longitude": 80.254157
+        },
+        "roof": {
+          "latitude": 13.002041,
+          "longitude": 80.254157
+        }
+      },
+      "link": "/v3/places/515d966ee4b0ff17492e6d5f",
+      "location": {
+        "address": "Shop no-1 Ground Floor, itashree residency, Mohta Baugh, Airport Road, Indore, Madhya Pradesh-452005. ph no-07312611260",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "Shop no-1 Ground Floor, itashree residency, Mohta Baugh, Airport Road, Indore, Madhya Pradesh-452005. ph no-07312611260, Chennai 600020, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600020",
+        "region": "Tamil Nadu"
+      },
+      "name": "Domino's Pizza",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4ed72b739adf06cbf653c76f",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "short_name": "Pizza",
+          "plural_name": "Pizzerias",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 116,
+      "geocodes": {
+        "main": {
+          "latitude": 13.005805,
+          "longitude": 80.257159
+        },
+        "roof": {
+          "latitude": 13.005805,
+          "longitude": 80.257159
+        }
+      },
+      "link": "/v3/places/4ed72b739adf06cbf653c76f",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "941735",
+        "postcode": "941735"
+      },
+      "name": "Pizza Corner Adyar",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4c8a1b84a92fa093ac0a8ebf",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "short_name": "Pizza",
+          "plural_name": "Pizzerias",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 135,
+      "geocodes": {
+        "main": {
+          "latitude": 13.005446,
+          "longitude": 80.257554
+        },
+        "roof": {
+          "latitude": 13.005446,
+          "longitude": 80.257554
+        }
+      },
+      "link": "/v3/places/4c8a1b84a92fa093ac0a8ebf",
+      "location": {
+        "address": "11 K. Road Building, L. B. Road",
+        "country": "IN",
+        "cross_street": "LB Road",
+        "formatted_address": "11 K. Road Building, L. B. Road (LB Road), Chennai 600020, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600020",
+        "region": "Tamil Nadu"
+      },
+      "name": "Pizza Corner",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "559ebd93498eba17e2ff0c19",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "short_name": "Pizza",
+          "plural_name": "Pizzerias",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "short_name": "Fast Food",
+          "plural_name": "Fast Food Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "ab4afc60-d68a-012e-5619-003048cad9da",
+          "name": "Domino's Pizza"
+        }
+      ],
+      "closed_bucket": "LikelyOpen",
+      "distance": 582,
+      "geocodes": {
+        "main": {
+          "latitude": 13.002249,
+          "longitude": 80.251839
+        },
+        "roof": {
+          "latitude": 13.002249,
+          "longitude": 80.251839
+        }
+      },
+      "link": "/v3/places/559ebd93498eba17e2ff0c19",
+      "location": {
+        "address": "55 1st Street, Kamaraj Avenue, Aditya Arcade, Kasturibai",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "55 1st Street, Kamaraj Avenue, Aditya Arcade, Kasturibai, Chennai 600020, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600020",
+        "region": "Tamil Nadu"
+      },
+      "name": "Domino's Pizza",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "522af5ed11d2025fa2a5ea13",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "short_name": "Pizza",
+          "plural_name": "Pizzerias",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 266,
+      "geocodes": {
+        "main": {
+          "latitude": 13.00633,
+          "longitude": 80.254318
+        },
+        "roof": {
+          "latitude": 13.00633,
+          "longitude": 80.254318
+        }
+      },
+      "link": "/v3/places/522af5ed11d2025fa2a5ea13",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "941735",
+        "postcode": "941735"
+      },
+      "name": "Pizza Republic, Tambaram",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    }
+  ]
+}

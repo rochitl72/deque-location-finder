@@ -1,0 +1,110 @@
+{
+  "timestamp": "2025-07-24T11:11:41.970191",
+  "query": "Find parks",
+  "latitude": 13.0067,
+  "longitude": 80.257,
+  "results": [
+    {
+      "fsq_id": "4f650c72e4b098610b7613c0",
+      "categories": [],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 535,
+      "geocodes": {
+        "main": {
+          "latitude": 13.007133,
+          "longitude": 80.252129
+        },
+        "roof": {
+          "latitude": 13.007133,
+          "longitude": 80.252129
+        }
+      },
+      "link": "/v3/places/4f650c72e4b098610b7613c0",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "Hotel Park Sheraton",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4cfa6b7c20fe3704332b4df8",
+      "categories": [
+        {
+          "id": 13016,
+          "name": "Lounge",
+          "short_name": "Lounge",
+          "plural_name": "Lounges",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1949,
+      "geocodes": {
+        "main": {
+          "latitude": 12.989323,
+          "longitude": 80.255776
+        },
+        "roof": {
+          "latitude": 12.989323,
+          "longitude": 80.255776
+        }
+      },
+      "link": "/v3/places/4cfa6b7c20fe3704332b4df8",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "Park Sheraton - On The Rocks",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4d3bbf5e6e0aa1cd44dfdc2c",
+      "categories": [
+        {
+          "id": 12014,
+          "name": "College Academic Building",
+          "short_name": "Academic Building",
+          "plural_name": "College Academic Buildings",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/academicbuilding_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2296,
+      "geocodes": {
+        "main": {
+          "latitude": 13.015946,
+          "longitude": 80.237907
+        },
+        "roof": {
+          "latitude": 13.015946,
+          "longitude": 80.237907
+        }
+      },
+      "link": "/v3/places/4d3bbf5e6e0aa1cd44dfdc2c",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "Chennai, Tamil Nadu",
+        "locality": "Chennai",
+        "region": "Tamil Nadu"
+      },
+      "name": "Anna gem science park school",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    }
+  ]
+}

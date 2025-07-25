@@ -1,0 +1,127 @@
+{
+  "timestamp": "2025-07-24T09:41:37.764426",
+  "query": "Find cozy cafes",
+  "latitude": 13.0067,
+  "longitude": 80.257,
+  "results": [
+    {
+      "fsq_id": "4e00a280b61c1fbe8dfadeee",
+      "categories": [
+        {
+          "id": 13377,
+          "name": "Vegan and Vegetarian Restaurant",
+          "short_name": "Vegan and Vegetarian Restaurant",
+          "plural_name": "Vegan and Vegetarian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/vegetarian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2181,
+      "geocodes": {
+        "main": {
+          "latitude": 13.014569,
+          "longitude": 80.238377
+        },
+        "roof": {
+          "latitude": 13.014569,
+          "longitude": 80.238377
+        }
+      },
+      "link": "/v3/places/4e00a280b61c1fbe8dfadeee",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "cafe Sri Krishna",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "3bcde5cbfb5141c579b65a98",
+      "categories": [
+        {
+          "id": 17000,
+          "name": "Retail",
+          "short_name": "Retail",
+          "plural_name": "Retail",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2721,
+      "geocodes": {
+        "main": {
+          "latitude": 13.031095,
+          "longitude": 80.254778
+        },
+        "roof": {
+          "latitude": 13.031095,
+          "longitude": 80.254778
+        }
+      },
+      "link": "/v3/places/3bcde5cbfb5141c579b65a98",
+      "location": {
+        "address": "37/20, Sriram Colony, Abhirampuram",
+        "country": "IN",
+        "formatted_address": "37/20, Sriram Colony, Abhirampuram, Chennai 600018, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600018",
+        "region": "Tamil Nadu"
+      },
+      "name": "Manthra Path Finders",
+      "related_places": {}
+    },
+    {
+      "fsq_id": "6ed2d429d0224492fd548d79",
+      "categories": [
+        {
+          "id": 11000,
+          "name": "Business and Professional Services",
+          "short_name": "Business and Professional Services",
+          "plural_name": "Business and Professional Services",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2896,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 13.03278,
+          "longitude": 80.256854
+        },
+        "main": {
+          "latitude": 13.032768,
+          "longitude": 80.257031
+        },
+        "roof": {
+          "latitude": 13.032768,
+          "longitude": 80.257031
+        }
+      },
+      "link": "/v3/places/6ed2d429d0224492fd548d79",
+      "location": {
+        "address": "Cp Ramaswamy Road",
+        "country": "IN",
+        "formatted_address": "Cp Ramaswamy Road, Chennai 600018, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600018",
+        "region": "Tamil Nadu"
+      },
+      "name": "3F Industries Ltd.",
+      "related_places": {}
+    }
+  ]
+}

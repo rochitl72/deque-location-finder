@@ -1,0 +1,45 @@
+{
+    "query": "cafe",
+    "results": [
+        {
+            "fsq_id": "54f1d38f498ef860b745db37",
+            "categories": [
+                {
+                    "id": 13034,
+                    "name": "Caf\u00e9",
+                    "short_name": "Caf\u00e9",
+                    "plural_name": "Caf\u00e9s",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "LikelyOpen",
+            "distance": 2356,
+            "geocodes": {
+                "main": {
+                    "latitude": 13.022435,
+                    "longitude": 80.242266
+                },
+                "roof": {
+                    "latitude": 13.022435,
+                    "longitude": 80.242266
+                }
+            },
+            "link": "/v3/places/54f1d38f498ef860b745db37",
+            "location": {
+                "country": "IN",
+                "cross_street": "",
+                "formatted_address": "Chennai 941735, Tamil Nadu",
+                "locality": "Chennai",
+                "postcode": "941735",
+                "region": "Tamil Nadu"
+            },
+            "name": "Ciclo Cafe",
+            "related_places": {},
+            "timezone": "Asia/Kolkata"
+        }
+    ]
+}

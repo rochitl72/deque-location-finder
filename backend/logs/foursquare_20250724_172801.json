@@ -1,0 +1,199 @@
+{
+  "timestamp": "2025-07-24T17:28:01.216989",
+  "query": "super market near me ",
+  "latitude": 13.123578537495357,
+  "longitude": 80.15245309640844,
+  "results": [
+    {
+      "fsq_id": "8300fe6a55ab41b6115c5fb9",
+      "categories": [
+        {
+          "id": 17000,
+          "name": "Retail",
+          "short_name": "Retail",
+          "plural_name": "Retail",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 421,
+      "geocodes": {
+        "main": {
+          "latitude": 13.121208,
+          "longitude": 80.149414
+        }
+      },
+      "link": "/v3/places/8300fe6a55ab41b6115c5fb9",
+      "location": {
+        "address": "No 35, Sooriya, Old Twp Road, Venkatapuram, Vijayalakshmipuram",
+        "country": "IN",
+        "formatted_address": "No 35, Sooriya, Old Twp Road, Venkatapuram, Vijayalakshmipuram, Chennai 600053, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "Organic Heaven Super Market",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4dce7f7d7d8b975f18cf4903",
+      "categories": [
+        {
+          "id": 17000,
+          "name": "Retail",
+          "short_name": "Retail",
+          "plural_name": "Retail",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 581,
+      "geocodes": {
+        "main": {
+          "latitude": 13.118326,
+          "longitude": 80.151979
+        },
+        "roof": {
+          "latitude": 13.118326,
+          "longitude": 80.151979
+        }
+      },
+      "link": "/v3/places/4dce7f7d7d8b975f18cf4903",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "600053, Tamil Nadu",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "Farm Bazaar Super Market",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "90a8b525f0e94e62851da82c",
+      "categories": [
+        {
+          "id": 17000,
+          "name": "Retail",
+          "short_name": "Retail",
+          "plural_name": "Retail",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 210,
+      "geocodes": {
+        "main": {
+          "latitude": 13.122539,
+          "longitude": 80.150823
+        },
+        "roof": {
+          "latitude": 13.122539,
+          "longitude": 80.150823
+        }
+      },
+      "link": "/v3/places/90a8b525f0e94e62851da82c",
+      "location": {
+        "address": "No 33/77-b",
+        "address_extended": "Opposite To To Kailash Mahal, Mounaswami Madam Street, Venkatapuram, Vijayalakshmi Puram",
+        "country": "IN",
+        "formatted_address": "No 33/77-b, Chennai 600053, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "Shwetha Super Market",
+      "related_places": {}
+    },
+    {
+      "fsq_id": "51287189e4b0fb382f5fe3ad",
+      "categories": [
+        {
+          "id": 17000,
+          "name": "Retail",
+          "short_name": "Retail",
+          "plural_name": "Retail",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2407,
+      "geocodes": {
+        "main": {
+          "latitude": 13.106786,
+          "longitude": 80.15214
+        }
+      },
+      "link": "/v3/places/51287189e4b0fb382f5fe3ad",
+      "location": {
+        "address": "Chennai Tiruvallur High Road",
+        "country": "IN",
+        "cross_street": "Tirumullaivoyal",
+        "formatted_address": "Chennai Tiruvallur High Road (Tirumullaivoyal), Chennai 600053, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "Golden Fancy and Super Market",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "5f8e5fffc21747b29bdce1c5",
+      "categories": [
+        {
+          "id": 17000,
+          "name": "Retail",
+          "short_name": "Retail",
+          "plural_name": "Retail",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 296,
+      "geocodes": {
+        "main": {
+          "latitude": 13.122283,
+          "longitude": 80.15006
+        },
+        "roof": {
+          "latitude": 13.122283,
+          "longitude": 80.15006
+        }
+      },
+      "link": "/v3/places/5f8e5fffc21747b29bdce1c5",
+      "location": {
+        "address": "Pasumai Pazhamutir Nilayam, Venkatta Puram",
+        "country": "IN",
+        "formatted_address": "Pasumai Pazhamutir Nilayam, Venkatta Puram, Chennai 600053, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "Super Market",
+      "related_places": {}
+    }
+  ]
+}

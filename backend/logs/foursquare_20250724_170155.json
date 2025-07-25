@@ -1,0 +1,212 @@
+{
+  "timestamp": "2025-07-24T17:01:55.900893",
+  "query": "goof restaurant with chinese cusine ",
+  "latitude": 13.123571874386323,
+  "longitude": 80.15245704957638,
+  "results": [
+    {
+      "fsq_id": "4ff94c13e4b05ae524f09ed8",
+      "categories": [
+        {
+          "id": 13199,
+          "name": "Indian Restaurant",
+          "short_name": "Indian",
+          "plural_name": "Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 152,
+      "geocodes": {
+        "main": {
+          "latitude": 13.123066,
+          "longitude": 80.151114
+        },
+        "roof": {
+          "latitude": 13.123066,
+          "longitude": 80.151114
+        }
+      },
+      "link": "/v3/places/4ff94c13e4b05ae524f09ed8",
+      "location": {
+        "address": "Ambattur",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "Ambattur, 941735",
+        "postcode": "941735"
+      },
+      "name": "Happy Days Restaurant",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "53cfe0af498e5672a50f570c",
+      "categories": [
+        {
+          "id": 13199,
+          "name": "Indian Restaurant",
+          "short_name": "Indian",
+          "plural_name": "Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 349,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 13.126482,
+          "longitude": 80.153315
+        },
+        "main": {
+          "latitude": 13.126532,
+          "longitude": 80.153222
+        },
+        "roof": {
+          "latitude": 13.126532,
+          "longitude": 80.153222
+        }
+      },
+      "link": "/v3/places/53cfe0af498e5672a50f570c",
+      "location": {
+        "address": "43 Red Hills Road",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "43 Red Hills Road, Chennai 600053, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "Anjappar chettinad Restaurant",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "50cae416e4b0c769624ed9f7",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 438,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 13.120457,
+          "longitude": 80.150422
+        },
+        "main": {
+          "latitude": 13.120491,
+          "longitude": 80.150204
+        },
+        "roof": {
+          "latitude": 13.120491,
+          "longitude": 80.150204
+        }
+      },
+      "link": "/v3/places/50cae416e4b0c769624ed9f7",
+      "location": {
+        "address": "No 33/75, Choto Plaza, Mounaswamy Madam Steet",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "No 33/75, Choto Plaza, Mounaswamy Madam Steet, Chennai 600053, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "Happy Days Multicuisine Restaurant",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "51eb9445498e6ff5ea0b72f7",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 454,
+      "geocodes": {
+        "main": {
+          "latitude": 13.127652,
+          "longitude": 80.153818
+        },
+        "roof": {
+          "latitude": 13.127652,
+          "longitude": 80.153818
+        }
+      },
+      "link": "/v3/places/51eb9445498e6ff5ea0b72f7",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "46 Multicuisine A/c Restaurant",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "51e151f8498e13baf141e341",
+      "categories": [
+        {
+          "id": 13199,
+          "name": "Indian Restaurant",
+          "short_name": "Indian",
+          "plural_name": "Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 595,
+      "geocodes": {
+        "main": {
+          "latitude": 13.119173,
+          "longitude": 80.149564
+        },
+        "roof": {
+          "latitude": 13.119173,
+          "longitude": 80.149564
+        }
+      },
+      "link": "/v3/places/51e151f8498e13baf141e341",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "941735",
+        "postcode": "941735"
+      },
+      "name": "Santhosh Multicuisine Restaurant",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    }
+  ]
+}

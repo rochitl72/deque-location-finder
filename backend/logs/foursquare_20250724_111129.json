@@ -1,0 +1,176 @@
+{
+  "timestamp": "2025-07-24T11:11:29.788443",
+  "query": "pizza",
+  "latitude": 13.0067,
+  "longitude": 80.257,
+  "results": [
+    {
+      "fsq_id": "515d966ee4b0ff17492e6d5f",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "short_name": "Pizza",
+          "plural_name": "Pizzerias",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "short_name": "Fast Food",
+          "plural_name": "Fast Food Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "ab4afc60-d68a-012e-5619-003048cad9da",
+          "name": "Domino's Pizza"
+        }
+      ],
+      "closed_bucket": "LikelyOpen",
+      "distance": 615,
+      "geocodes": {
+        "main": {
+          "latitude": 13.002041,
+          "longitude": 80.254157
+        },
+        "roof": {
+          "latitude": 13.002041,
+          "longitude": 80.254157
+        }
+      },
+      "link": "/v3/places/515d966ee4b0ff17492e6d5f",
+      "location": {
+        "address": "Shop no-1 Ground Floor, itashree residency, Mohta Baugh, Airport Road, Indore, Madhya Pradesh-452005. ph no-07312611260",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "Shop no-1 Ground Floor, itashree residency, Mohta Baugh, Airport Road, Indore, Madhya Pradesh-452005. ph no-07312611260, Chennai 600020, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600020",
+        "region": "Tamil Nadu"
+      },
+      "name": "Domino's Pizza",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "559ebd93498eba17e2ff0c19",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "short_name": "Pizza",
+          "plural_name": "Pizzerias",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "short_name": "Fast Food",
+          "plural_name": "Fast Food Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "ab4afc60-d68a-012e-5619-003048cad9da",
+          "name": "Domino's Pizza"
+        }
+      ],
+      "closed_bucket": "LikelyOpen",
+      "distance": 582,
+      "geocodes": {
+        "main": {
+          "latitude": 13.002249,
+          "longitude": 80.251839
+        },
+        "roof": {
+          "latitude": 13.002249,
+          "longitude": 80.251839
+        }
+      },
+      "link": "/v3/places/559ebd93498eba17e2ff0c19",
+      "location": {
+        "address": "55 1st Street, Kamaraj Avenue, Aditya Arcade, Kasturibai",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "55 1st Street, Kamaraj Avenue, Aditya Arcade, Kasturibai, Chennai 600020, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600020",
+        "region": "Tamil Nadu"
+      },
+      "name": "Domino's Pizza",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4db433c743a1369cb5b4e31d",
+      "categories": [
+        {
+          "id": 13064,
+          "name": "Pizzeria",
+          "short_name": "Pizza",
+          "plural_name": "Pizzerias",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "short_name": "Fast Food",
+          "plural_name": "Fast Food Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "ab4afc60-d68a-012e-5619-003048cad9da",
+          "name": "Domino's Pizza"
+        }
+      ],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2294,
+      "geocodes": {
+        "main": {
+          "latitude": 13.044474,
+          "longitude": 80.270028
+        },
+        "roof": {
+          "latitude": 13.044474,
+          "longitude": 80.270028
+        }
+      },
+      "link": "/v3/places/4db433c743a1369cb5b4e31d",
+      "location": {
+        "address": "R.K Mutt Road",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "R.K Mutt Road, Chennai 600028, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600028",
+        "region": "Tamil Nadu"
+      },
+      "name": "Domino's Pizza",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "timestamp": "2025-07-24T11:12:32.477156",
+  "query": "Find vegetarian restaurants",
+  "latitude": 13.0067,
+  "longitude": 80.257,
+  "results": [
+    {
+      "fsq_id": "4cf12fd888de370468b3702b",
+      "categories": [
+        {
+          "id": 13377,
+          "name": "Vegan and Vegetarian Restaurant",
+          "short_name": "Vegan and Vegetarian Restaurant",
+          "plural_name": "Vegan and Vegetarian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/vegetarian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2104,
+      "geocodes": {
+        "main": {
+          "latitude": 13.025616,
+          "longitude": 80.257668
+        },
+        "roof": {
+          "latitude": 13.025616,
+          "longitude": 80.257668
+        }
+      },
+      "link": "/v3/places/4cf12fd888de370468b3702b",
+      "location": {
+        "address": "3rd Cross Street",
+        "country": "IN",
+        "formatted_address": "3rd Cross Street, Chennai 941735, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "941735",
+        "region": "Tamil Nadu"
+      },
+      "name": "Sangeetha Veg Restaurant",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "54760c22498eab68d4a70c9a",
+      "categories": [
+        {
+          "id": 13377,
+          "name": "Vegan and Vegetarian Restaurant",
+          "short_name": "Vegan and Vegetarian Restaurant",
+          "plural_name": "Vegan and Vegetarian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/vegetarian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4617,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 13.043115,
+          "longitude": 80.236587
+        },
+        "main": {
+          "latitude": 13.043277,
+          "longitude": 80.236499
+        },
+        "roof": {
+          "latitude": 13.043277,
+          "longitude": 80.236499
+        }
+      },
+      "link": "/v3/places/54760c22498eab68d4a70c9a",
+      "location": {
+        "address": "Gn Chetty Road",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "Gn Chetty Road, 600017",
+        "postcode": "600017"
+      },
+      "name": "Sangeetha Fine Dining",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "5134cd93e4b02bbf5f3b8642",
+      "categories": [
+        {
+          "id": 13199,
+          "name": "Indian Restaurant",
+          "short_name": "Indian",
+          "plural_name": "Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13377,
+          "name": "Vegan and Vegetarian Restaurant",
+          "short_name": "Vegan and Vegetarian Restaurant",
+          "plural_name": "Vegan and Vegetarian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/vegetarian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4543,
+      "geocodes": {
+        "main": {
+          "latitude": 13.047699,
+          "longitude": 80.255242
+        },
+        "roof": {
+          "latitude": 13.047699,
+          "longitude": 80.255242
+        }
+      },
+      "link": "/v3/places/5134cd93e4b02bbf5f3b8642",
+      "location": {
+        "address": "14 6th Street",
+        "address_extended": "Opposite Stella Maries College, Behind",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "14 6th Street, Chennai 600086, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600086",
+        "region": "Tamil Nadu"
+      },
+      "name": "Bay Leaf",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    }
+  ]
+}

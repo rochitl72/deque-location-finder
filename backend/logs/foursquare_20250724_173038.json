@@ -1,0 +1,211 @@
+{
+  "timestamp": "2025-07-24T17:30:38.858301",
+  "query": "bike workshope near me ",
+  "latitude": 13.123581903235742,
+  "longitude": 80.15249047656205,
+  "results": [
+    {
+      "fsq_id": "3f5644f5d6484af3655eadf7",
+      "categories": [
+        {
+          "id": 17011,
+          "name": "Car Parts and Accessories",
+          "short_name": "Car Part and Accessory",
+          "plural_name": "Car Parts and Accessories",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/automotive_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 187,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 13.12426,
+          "longitude": 80.151094
+        },
+        "main": {
+          "latitude": 13.124438,
+          "longitude": 80.150998
+        },
+        "roof": {
+          "latitude": 13.124438,
+          "longitude": 80.150998
+        }
+      },
+      "link": "/v3/places/3f5644f5d6484af3655eadf7",
+      "location": {
+        "address": "Redhills Road",
+        "country": "IN",
+        "formatted_address": "Redhills Road, Chennai 600053, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "Subam Bike Wheel Balancing Works",
+      "related_places": {}
+    },
+    {
+      "fsq_id": "45987aeaa7844f2beab73640",
+      "categories": [
+        {
+          "id": 17011,
+          "name": "Car Parts and Accessories",
+          "short_name": "Car Part and Accessory",
+          "plural_name": "Car Parts and Accessories",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/automotive_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 324,
+      "geocodes": {
+        "main": {
+          "latitude": 13.1233,
+          "longitude": 80.155475
+        },
+        "roof": {
+          "latitude": 13.1233,
+          "longitude": 80.155475
+        }
+      },
+      "link": "/v3/places/45987aeaa7844f2beab73640",
+      "location": {
+        "address": "No 4, Anna Salai, Anna Main Road, Vijayalakshmi Puram",
+        "country": "IN",
+        "formatted_address": "No 4, Anna Salai, Anna Main Road, Vijayalakshmi Puram, Chennai 600053, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "Srinivasan Bike Service",
+      "related_places": {}
+    },
+    {
+      "fsq_id": "e9ff1b77d62642c4962df5c9",
+      "categories": [
+        {
+          "id": 17000,
+          "name": "Retail",
+          "short_name": "Retail",
+          "plural_name": "Retail",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 480,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 13.119821,
+          "longitude": 80.150122
+        },
+        "main": {
+          "latitude": 13.119918,
+          "longitude": 80.150138
+        }
+      },
+      "link": "/v3/places/e9ff1b77d62642c4962df5c9",
+      "location": {
+        "address": "North Park Street",
+        "country": "IN",
+        "formatted_address": "North Park Street, Chennai 600053, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "Look and Me Menswear",
+      "related_places": {}
+    },
+    {
+      "fsq_id": "c3e4df1fbb574a2e1b2530e1",
+      "categories": [
+        {
+          "id": 17011,
+          "name": "Car Parts and Accessories",
+          "short_name": "Car Part and Accessory",
+          "plural_name": "Car Parts and Accessories",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/automotive_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 566,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 13.11913,
+          "longitude": 80.154253
+        },
+        "main": {
+          "latitude": 13.118762,
+          "longitude": 80.154199
+        },
+        "roof": {
+          "latitude": 13.118762,
+          "longitude": 80.154199
+        }
+      },
+      "link": "/v3/places/c3e4df1fbb574a2e1b2530e1",
+      "location": {
+        "address": "West Park Street",
+        "country": "IN",
+        "formatted_address": "West Park Street, Chennai 600053, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "RK Bike Point",
+      "related_places": {}
+    },
+    {
+      "fsq_id": "16194de8d6014916febcb9ae",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 576,
+      "geocodes": {
+        "main": {
+          "latitude": 13.119239,
+          "longitude": 80.149579
+        },
+        "roof": {
+          "latitude": 13.119239,
+          "longitude": 80.149579
+        }
+      },
+      "link": "/v3/places/16194de8d6014916febcb9ae",
+      "location": {
+        "address": "Yes Yes Arcade, Mth Road, Ambattur Estate",
+        "country": "IN",
+        "formatted_address": "Yes Yes Arcade, Mth Road, Ambattur Estate, Chennai 600053, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "ME Restaurant",
+      "related_places": {}
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "timestamp": "2025-07-24T12:20:59.469401",
+  "query": "biryani",
+  "latitude": 13.076024150082326,
+  "longitude": 80.23505859350244,
+  "results": [
+    {
+      "fsq_id": "5001224ae4b00846b6f071bc",
+      "categories": [
+        {
+          "id": 13199,
+          "name": "Indian Restaurant",
+          "short_name": "Indian",
+          "plural_name": "Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1819,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 13.061457,
+          "longitude": 80.243165
+        },
+        "main": {
+          "latitude": 13.061481,
+          "longitude": 80.243041
+        }
+      },
+      "link": "/v3/places/5001224ae4b00846b6f071bc",
+      "location": {
+        "country": "IN",
+        "cross_street": "Valluvar Kottam High Road",
+        "formatted_address": "Valluvar Kottam High Road, Chennai 061263, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "061263",
+        "region": "Tamil Nadu"
+      },
+      "name": "Bismi Biryani Restaurant",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4f54a4d36b747dcf52d02bd2",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1278,
+      "geocodes": {
+        "main": {
+          "latitude": 13.081683,
+          "longitude": 80.224904
+        },
+        "roof": {
+          "latitude": 13.081683,
+          "longitude": 80.224904
+        }
+      },
+      "link": "/v3/places/4f54a4d36b747dcf52d02bd2",
+      "location": {
+        "address": "7 7th Cross Street",
+        "address_extended": "Near Thiru Vee Ka Park, Shenoy Nagar West, Anna Nagar East",
+        "country": "IN",
+        "cross_street": "Shenoy Nagar",
+        "formatted_address": "7 7th Cross Street (Shenoy Nagar), Chennai 600030, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600030",
+        "region": "Tamil Nadu"
+      },
+      "name": "Coffeetales",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4c55a0d84623be9a7a10cbf4",
+      "categories": [
+        {
+          "id": 13002,
+          "name": "Bakery",
+          "short_name": "Bakery",
+          "plural_name": "Bakeries",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1552,
+      "geocodes": {
+        "main": {
+          "latitude": 13.067237,
+          "longitude": 80.245942
+        },
+        "roof": {
+          "latitude": 13.067237,
+          "longitude": 80.245942
+        }
+      },
+      "link": "/v3/places/4c55a0d84623be9a7a10cbf4",
+      "location": {
+        "address": "45 College Road",
+        "address_extended": "Near Madras Alliance Francaise, Nungambakkam",
+        "country": "IN",
+        "cross_street": "Nungambakkam",
+        "formatted_address": "45 College Road (Nungambakkam), Chennai 600034, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600034",
+        "region": "Tamil Nadu"
+      },
+      "name": "Cream Centre",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4c94cfcbf7cfa1cd490db715",
+      "categories": [
+        {
+          "id": 13199,
+          "name": "Indian Restaurant",
+          "short_name": "Indian",
+          "plural_name": "Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1338,
+      "geocodes": {
+        "main": {
+          "latitude": 13.066633,
+          "longitude": 80.243034
+        },
+        "roof": {
+          "latitude": 13.066633,
+          "longitude": 80.243034
+        }
+      },
+      "link": "/v3/places/4c94cfcbf7cfa1cd490db715",
+      "location": {
+        "address": "Chetpet",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "Chetpet, Chennai 941735, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "941735",
+        "region": "Tamil Nadu"
+      },
+      "name": "Eden Restaurant",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "5025210be4b0f1b4377faaf4",
+      "categories": [
+        {
+          "id": 13199,
+          "name": "Indian Restaurant",
+          "short_name": "Indian",
+          "plural_name": "Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1796,
+      "geocodes": {
+        "main": {
+          "latitude": 13.083664,
+          "longitude": 80.220371
+        },
+        "roof": {
+          "latitude": 13.083664,
+          "longitude": 80.220371
+        }
+      },
+      "link": "/v3/places/5025210be4b0f1b4377faaf4",
+      "location": {
+        "address": "No. 30, A-Block, 6th Street, Anna Nagar East, Anna",
+        "country": "IN",
+        "cross_street": "Kilpauk",
+        "formatted_address": "No. 30, A-Block, 6th Street, Anna Nagar East, Anna (Kilpauk), Chennai 600102, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600102",
+        "region": "Tamil Nadu"
+      },
+      "name": "Al Maza",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    }
+  ]
+}

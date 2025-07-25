@@ -1,0 +1,210 @@
+{
+  "timestamp": "2025-07-24T12:07:05.848523",
+  "query": "biryani shop",
+  "latitude": 13.076022904501773,
+  "longitude": 80.23506088462457,
+  "results": [
+    {
+      "fsq_id": "5001224ae4b00846b6f071bc",
+      "categories": [
+        {
+          "id": 13199,
+          "name": "Indian Restaurant",
+          "short_name": "Indian",
+          "plural_name": "Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1819,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 13.061457,
+          "longitude": 80.243165
+        },
+        "main": {
+          "latitude": 13.061481,
+          "longitude": 80.243041
+        }
+      },
+      "link": "/v3/places/5001224ae4b00846b6f071bc",
+      "location": {
+        "country": "IN",
+        "cross_street": "Valluvar Kottam High Road",
+        "formatted_address": "Valluvar Kottam High Road, Chennai 061263, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "061263",
+        "region": "Tamil Nadu"
+      },
+      "name": "Bismi Biryani Restaurant",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "56549b19498eec7fb313a387",
+      "categories": [
+        {
+          "id": 13217,
+          "name": "Multicuisine Indian Restaurant",
+          "short_name": "Multicuisine Indian",
+          "plural_name": "Multicuisine Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 651,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 13.07772,
+          "longitude": 80.240707
+        },
+        "main": {
+          "latitude": 13.077722,
+          "longitude": 80.24059
+        },
+        "roof": {
+          "latitude": 13.077722,
+          "longitude": 80.24059
+        }
+      },
+      "link": "/v3/places/56549b19498eec7fb313a387",
+      "location": {
+        "address": "Vasu Street",
+        "country": "IN",
+        "cross_street": "Kilpauk",
+        "formatted_address": "Vasu Street (Kilpauk), Chennai 077775, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "077775",
+        "region": "Tamil Nadu"
+      },
+      "name": "Aasife Biryani",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "5183a8673b504131e891a655",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 845,
+      "geocodes": {
+        "main": {
+          "latitude": 13.079211,
+          "longitude": 80.227973
+        },
+        "roof": {
+          "latitude": 13.079211,
+          "longitude": 80.227973
+        }
+      },
+      "link": "/v3/places/5183a8673b504131e891a655",
+      "location": {
+        "address": "Building No 1, 8th Cross Street",
+        "country": "IN",
+        "formatted_address": "Building No 1, 8th Cross Street, Chennai 600030, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600030",
+        "region": "Tamil Nadu"
+      },
+      "name": "Sharief Biryani",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "53251e65498e0fa9bc5c0dfd",
+      "categories": [
+        {
+          "id": 13199,
+          "name": "Indian Restaurant",
+          "short_name": "Indian",
+          "plural_name": "Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 931,
+      "geocodes": {
+        "main": {
+          "latitude": 13.082818,
+          "longitude": 80.239862
+        },
+        "roof": {
+          "latitude": 13.082818,
+          "longitude": 80.239862
+        }
+      },
+      "link": "/v3/places/53251e65498e0fa9bc5c0dfd",
+      "location": {
+        "address": "37 Kelly's Road",
+        "country": "IN",
+        "cross_street": "Kilpauk, Behind Bains School",
+        "formatted_address": "37 Kelly's Road (Kilpauk, Behind Bains School), Chennai 941735, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "941735",
+        "region": "Tamil Nadu"
+      },
+      "name": "Yasmeen Take-Away Biryani",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "63f9b8b66a2da42f7efcfaac",
+      "categories": [
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "short_name": "Fast Food",
+          "plural_name": "Fast Food Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1235,
+      "geocodes": {
+        "main": {
+          "latitude": 13.08208,
+          "longitude": 80.22549
+        }
+      },
+      "link": "/v3/places/63f9b8b66a2da42f7efcfaac",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "Chennai 600030, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600030",
+        "region": "Tamil Nadu"
+      },
+      "name": "Fazza Biryani",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "timestamp": "2025-07-24T17:21:46.752729",
+  "query": "mandi nea rme ",
+  "latitude": 13.12362482593412,
+  "longitude": 80.1524264398725,
+  "results": [
+    {
+      "fsq_id": "641159d041baf87921d7214b",
+      "categories": [
+        {
+          "id": 17029,
+          "name": "Convenience Store",
+          "short_name": "Convenience Store",
+          "plural_name": "Convenience Stores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/conveniencestore_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2554,
+      "geocodes": {
+        "main": {
+          "latitude": 13.101175,
+          "longitude": 80.14736
+        }
+      },
+      "link": "/v3/places/641159d041baf87921d7214b",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "Chennai 600053, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "Kamatchi Arisi Mandi",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "afac9f2db00642d91cad94fe",
+      "categories": [
+        {
+          "id": 17000,
+          "name": "Retail",
+          "short_name": "Retail",
+          "plural_name": "Retail",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 397,
+      "geocodes": {
+        "main": {
+          "latitude": 13.121226,
+          "longitude": 80.155145
+        },
+        "roof": {
+          "latitude": 13.121226,
+          "longitude": 80.155145
+        }
+      },
+      "link": "/v3/places/afac9f2db00642d91cad94fe",
+      "location": {
+        "address": "Anna Salai",
+        "country": "IN",
+        "formatted_address": "Anna Salai, Chennai 600053, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "Anna Lakshmi Rice Mandi",
+      "related_places": {}
+    },
+    {
+      "fsq_id": "df20f470715b4f14fd3f7b79",
+      "categories": [
+        {
+          "id": 17069,
+          "name": "Grocery Store",
+          "short_name": "Grocery Store",
+          "plural_name": "Grocery Stores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 405,
+      "geocodes": {
+        "main": {
+          "latitude": 13.123848,
+          "longitude": 80.148686
+        }
+      },
+      "link": "/v3/places/df20f470715b4f14fd3f7b79",
+      "location": {
+        "address": "15/9, Lal Bhadur Street",
+        "country": "IN",
+        "formatted_address": "15/9, Lal Bhadur Street, Chennai 600053, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "RK Rice Mandi",
+      "related_places": {}
+    },
+    {
+      "fsq_id": "17d28747a7cf474048975b7a",
+      "categories": [
+        {
+          "id": 17000,
+          "name": "Retail",
+          "short_name": "Retail",
+          "plural_name": "Retail",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 425,
+      "geocodes": {
+        "main": {
+          "latitude": 13.1219,
+          "longitude": 80.148914
+        },
+        "roof": {
+          "latitude": 13.1219,
+          "longitude": 80.148914
+        }
+      },
+      "link": "/v3/places/17d28747a7cf474048975b7a",
+      "location": {
+        "address": "No 10, Old Township Road",
+        "country": "IN",
+        "formatted_address": "No 10, Old Township Road, Chennai 600053, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "Anitha Rice Mandi",
+      "related_places": {}
+    },
+    {
+      "fsq_id": "3855b419149b49b185a7c050",
+      "categories": [
+        {
+          "id": 17000,
+          "name": "Retail",
+          "short_name": "Retail",
+          "plural_name": "Retail",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 446,
+      "geocodes": {
+        "main": {
+          "latitude": 13.120716,
+          "longitude": 80.155271
+        },
+        "roof": {
+          "latitude": 13.120716,
+          "longitude": 80.155271
+        }
+      },
+      "link": "/v3/places/3855b419149b49b185a7c050",
+      "location": {
+        "address": "Gr Flats",
+        "country": "IN",
+        "formatted_address": "Gr Flats, Chennai 600053, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "Annalakshmi Rice Mandi",
+      "related_places": {}
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "timestamp": "2025-07-24T11:59:49.213639",
+  "query": "cafe",
+  "latitude": 13.0067,
+  "longitude": 80.257,
+  "results": [
+    {
+      "fsq_id": "521b6a3411d20329d4c65ae2",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 685,
+      "geocodes": {
+        "main": {
+          "latitude": 13.006001,
+          "longitude": 80.250761
+        },
+        "roof": {
+          "latitude": 13.006001,
+          "longitude": 80.250761
+        }
+      },
+      "link": "/v3/places/521b6a3411d20329d4c65ae2",
+      "location": {
+        "address": "34/29, 2nd Main Road, Kasturibai",
+        "country": "IN",
+        "cross_street": "Kasturibai Nagar",
+        "formatted_address": "34/29, 2nd Main Road, Kasturibai (Kasturibai Nagar), Chennai 600020, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600020",
+        "region": "Tamil Nadu"
+      },
+      "name": "That Madras Place",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "542bcff4498e7e826c088486",
+      "categories": [
+        {
+          "id": 19014,
+          "name": "Hotel",
+          "short_name": "Hotel",
+          "plural_name": "Hotels",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2503,
+      "geocodes": {
+        "main": {
+          "latitude": 13.029337,
+          "longitude": 80.245475
+        },
+        "roof": {
+          "latitude": 13.029337,
+          "longitude": 80.245475
+        }
+      },
+      "link": "/v3/places/542bcff4498e7e826c088486",
+      "location": {
+        "address": "112 Chamiers Road",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "112 Chamiers Road, Chennai 600018, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600018",
+        "region": "Tamil Nadu"
+      },
+      "name": "The Chamiers Park",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "54f1d38f498ef860b745db37",
+      "categories": [
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2356,
+      "geocodes": {
+        "main": {
+          "latitude": 13.022435,
+          "longitude": 80.242266
+        },
+        "roof": {
+          "latitude": 13.022435,
+          "longitude": 80.242266
+        }
+      },
+      "link": "/v3/places/54f1d38f498ef860b745db37",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "Chennai 941735, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "941735",
+        "region": "Tamil Nadu"
+      },
+      "name": "Ciclo Cafe",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "548861de498e71cde07c9189",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4329,
+      "geocodes": {
+        "main": {
+          "latitude": 13.046117,
+          "longitude": 80.261164
+        },
+        "roof": {
+          "latitude": 13.046117,
+          "longitude": 80.261164
+        }
+      },
+      "link": "/v3/places/548861de498e71cde07c9189",
+      "location": {
+        "address": "The Savera Hotel, 146, Lobby Level, Dr Radhakrishnan Salai, Mylapore",
+        "country": "IN",
+        "cross_street": "Mylapore",
+        "formatted_address": "The Savera Hotel, 146, Lobby Level, Dr Radhakrishnan Salai, Mylapore (Mylapore), Chennai 600004, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600004",
+        "region": "Tamil Nadu"
+      },
+      "name": "The Brew Room",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4bc8e8df762beee185ae3d38",
+          "categories": [
+            {
+              "id": 19014,
+              "name": "Hotel",
+              "short_name": "Hotel",
+              "plural_name": "Hotels",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 13065,
+              "name": "Restaurant",
+              "short_name": "Restaurant",
+              "plural_name": "Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Savera Hotel"
+        }
+      },
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4e0efd0022711665f619fb56",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 810,
+      "geocodes": {
+        "main": {
+          "latitude": 13.00106,
+          "longitude": 80.254713
+        },
+        "roof": {
+          "latitude": 13.00106,
+          "longitude": 80.254713
+        }
+      },
+      "link": "/v3/places/4e0efd0022711665f619fb56",
+      "location": {
+        "address": "No 25, 2nd Street, Kamaraj Avenue",
+        "country": "IN",
+        "cross_street": "Kamaraj Avenue, Adyar",
+        "formatted_address": "No 25, 2nd Street, Kamaraj Avenue (Kamaraj Avenue, Adyar), Chennai 600020, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600020",
+        "region": "Tamil Nadu"
+      },
+      "name": "Zha Cafe",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    }
+  ]
+}

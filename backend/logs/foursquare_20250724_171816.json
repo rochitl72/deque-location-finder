@@ -1,0 +1,210 @@
+{
+  "timestamp": "2025-07-24T17:18:16.302512",
+  "query": "cafes near me ",
+  "latitude": 13.12362482593412,
+  "longitude": 80.1524264398725,
+  "results": [
+    {
+      "fsq_id": "50cf3edbe4b0f94b428d9d1e",
+      "categories": [
+        {
+          "id": 15016,
+          "name": "Medical Center",
+          "short_name": "Medical",
+          "plural_name": "Medical Centers",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 139,
+      "geocodes": {
+        "main": {
+          "latitude": 13.123708,
+          "longitude": 80.151017
+        },
+        "roof": {
+          "latitude": 13.123708,
+          "longitude": 80.151017
+        }
+      },
+      "link": "/v3/places/50cf3edbe4b0f94b428d9d1e",
+      "location": {
+        "address": "Ambattur",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "Ambattur"
+      },
+      "name": "MedPlus",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4e6351c3fa76cd64ce9c2fe6",
+      "categories": [
+        {
+          "id": 17000,
+          "name": "Retail",
+          "short_name": "Retail",
+          "plural_name": "Retail",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 282,
+      "geocodes": {
+        "main": {
+          "latitude": 13.120513,
+          "longitude": 80.150267
+        },
+        "roof": {
+          "latitude": 13.120513,
+          "longitude": 80.150267
+        }
+      },
+      "link": "/v3/places/4e6351c3fa76cd64ce9c2fe6",
+      "location": {
+        "address": "No 33/75, Choto Plaza, Mounaswamy Madam Steet",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "No 33/75, Choto Plaza, Mounaswamy Madam Steet, Chennai 600053, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "Style Wash Mens Beauty Care",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "50333ca029a693e370b863dd",
+      "categories": [
+        {
+          "id": 17000,
+          "name": "Retail",
+          "short_name": "Retail",
+          "plural_name": "Retail",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 320,
+      "geocodes": {
+        "main": {
+          "latitude": 13.122311,
+          "longitude": 80.149593
+        },
+        "roof": {
+          "latitude": 13.122311,
+          "longitude": 80.149593
+        }
+      },
+      "link": "/v3/places/50333ca029a693e370b863dd",
+      "location": {
+        "address": "Vijayalakshmi Puram",
+        "country": "IN",
+        "cross_street": "Old Township Road, Ambattur",
+        "formatted_address": "Vijayalakshmi Puram (Old Township Road, Ambattur), Chennai 600053, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "Priya Mehndi Arts",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "561c6c75498e6d488585c2ea",
+      "categories": [
+        {
+          "id": 15017,
+          "name": "Medical Lab",
+          "short_name": "Medical Lab",
+          "plural_name": "Medical Labs",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/lab_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 392,
+      "geocodes": {
+        "main": {
+          "latitude": 13.12037,
+          "longitude": 80.151122
+        },
+        "roof": {
+          "latitude": 13.12037,
+          "longitude": 80.151122
+        }
+      },
+      "link": "/v3/places/561c6c75498e6d488585c2ea",
+      "location": {
+        "address": "No G-7, Gajalakshmi Flats",
+        "country": "IN",
+        "cross_street": "Oragadam Road, Venkatapuram",
+        "formatted_address": "No G-7, Gajalakshmi Flats (Oragadam Road, Venkatapuram), Chennai 600053, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "Lister Metropolis",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "6b5166f6e1b74b85f84038f4",
+      "categories": [
+        {
+          "id": 11000,
+          "name": "Business and Professional Services",
+          "short_name": "Business and Professional Services",
+          "plural_name": "Business and Professional Services",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 489,
+      "geocodes": {
+        "main": {
+          "latitude": 13.11923,
+          "longitude": 80.152115
+        },
+        "roof": {
+          "latitude": 13.11923,
+          "longitude": 80.152115
+        }
+      },
+      "link": "/v3/places/6b5166f6e1b74b85f84038f4",
+      "location": {
+        "address": "No 39, Natesan Street, Varadharaja Puram",
+        "address_extended": "Near Canara Bank",
+        "country": "IN",
+        "formatted_address": "No 39, Natesan Street, Varadharaja Puram, Chennai 600098, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600098",
+        "region": "Tamil Nadu"
+      },
+      "name": "Supertech Scientific and Metallurgical Services",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    }
+  ]
+}

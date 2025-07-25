@@ -1,0 +1,174 @@
+{
+  "timestamp": "2025-07-24T11:12:35.952248",
+  "query": "Find movie theatres",
+  "latitude": 13.0067,
+  "longitude": 80.257,
+  "results": [
+    {
+      "fsq_id": "4cc190406ad3a143baccdcde",
+      "categories": [
+        {
+          "id": 19014,
+          "name": "Hotel",
+          "short_name": "Hotel",
+          "plural_name": "Hotels",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2486,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 13.029049,
+          "longitude": 80.252695
+        },
+        "main": {
+          "latitude": 13.028623,
+          "longitude": 80.252706
+        },
+        "roof": {
+          "latitude": 13.028623,
+          "longitude": 80.252706
+        }
+      },
+      "link": "/v3/places/4cc190406ad3a143baccdcde",
+      "location": {
+        "address": "120 St. Mary's Road",
+        "country": "IN",
+        "cross_street": "Alwarpet,",
+        "formatted_address": "120 St. Mary's Road (Alwarpet,), Chennai 600018, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600018",
+        "region": "Tamil Nadu"
+      },
+      "name": "Raintree Hotels",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5bf63715f62e09002c924b5a",
+            "categories": [
+              {
+                "id": 11129,
+                "name": "Meeting Room",
+                "short_name": "Meeting Room",
+                "plural_name": "Meeting Rooms",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/office_conferenceroom_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Conference Room @Raintree"
+          },
+          {
+            "fsq_id": "5bf6112f065ef5002c1887de",
+            "categories": [
+              {
+                "id": 18021,
+                "name": "Gym and Studio",
+                "short_name": "Gym and Studio",
+                "plural_name": "Gym and Studios",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/building/gym_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "The Track @raintree"
+          }
+        ]
+      },
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4be18b2b8dd062b51f503e3c",
+      "categories": [
+        {
+          "id": 19014,
+          "name": "Hotel",
+          "short_name": "Hotel",
+          "plural_name": "Hotels",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4324,
+      "geocodes": {
+        "main": {
+          "latitude": 13.045299,
+          "longitude": 80.257795
+        },
+        "roof": {
+          "latitude": 13.045299,
+          "longitude": 80.257795
+        }
+      },
+      "link": "/v3/places/4be18b2b8dd062b51f503e3c",
+      "location": {
+        "address": "11 Old No 9, Cathedral Road, Parthasarathypuram",
+        "address_extended": "Next To Chola Sheraton Hotel, Cathedral Road",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "11 Old No 9, Cathedral Road, Parthasarathypuram, Chennai 600086, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600086",
+        "region": "Tamil Nadu"
+      },
+      "name": "Hotel Maris",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4bd1cf475e0cce723b06a284",
+      "categories": [
+        {
+          "id": 19014,
+          "name": "Hotel",
+          "short_name": "Hotel",
+          "plural_name": "Hotels",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4029,
+      "geocodes": {
+        "main": {
+          "latitude": 13.040506,
+          "longitude": 80.243816
+        },
+        "roof": {
+          "latitude": 13.040506,
+          "longitude": 80.243816
+        }
+      },
+      "link": "/v3/places/4bd1cf475e0cce723b06a284",
+      "location": {
+        "address": "115 Sir Thyagaraya Road, Pondy Bazaar",
+        "address_extended": "Next To Globus, T",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "115 Sir Thyagaraya Road, Pondy Bazaar, Chennai 600017, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600017",
+        "region": "Tamil Nadu"
+      },
+      "name": "The Residency Towers",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Asia/Kolkata"
+    }
+  ]
+}

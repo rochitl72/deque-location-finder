@@ -1,0 +1,277 @@
+{
+  "timestamp": "2025-07-25T05:09:47.645435",
+  "query": "Caf\u00e9 Coffee Day",
+  "latitude": 13.076019370680946,
+  "longitude": 80.23505609458303,
+  "results": [
+    {
+      "fsq_id": "5b3aff5f0313200039845ba9",
+      "categories": [
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "22847906-dd9a-4a5a-a1ce-e545ef1826aa",
+          "name": "Caf\u00e9 Coffee Day"
+        }
+      ],
+      "closed_bucket": "LikelyOpen",
+      "distance": 366,
+      "geocodes": {
+        "main": {
+          "latitude": 13.079008,
+          "longitude": 80.233424
+        },
+        "roof": {
+          "latitude": 13.079008,
+          "longitude": 80.233424
+        }
+      },
+      "link": "/v3/places/5b3aff5f0313200039845ba9",
+      "location": {
+        "address": "Sunrise Apartments",
+        "country": "IN",
+        "cross_street": "New Avadi Rd, Kilpauk, Avadi,",
+        "formatted_address": "Sunrise Apartments (New Avadi Rd, Kilpauk, Avadi,), 600030, Tamil Nadu",
+        "postcode": "600030",
+        "region": "Tamil Nadu"
+      },
+      "name": "Caf\u00e9 Coffee Day",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4f16ea41e4b0865b0d06fccc",
+      "categories": [
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "22847906-dd9a-4a5a-a1ce-e545ef1826aa",
+          "name": "Caf\u00e9 Coffee Day"
+        }
+      ],
+      "closed_bucket": "LikelyOpen",
+      "distance": 965,
+      "geocodes": {
+        "main": {
+          "latitude": 13.071321,
+          "longitude": 80.227683
+        },
+        "roof": {
+          "latitude": 13.071321,
+          "longitude": 80.227683
+        }
+      },
+      "link": "/v3/places/4f16ea41e4b0865b0d06fccc",
+      "location": {
+        "address": "Caf\u00e9 Coffee Day, Skywalk Ampa Mall",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "Caf\u00e9 Coffee Day, Skywalk Ampa Mall, Chennai 600035, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600035",
+        "region": "Tamil Nadu"
+      },
+      "name": "Caf\u00e9 Coffee Day",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4ce91652e888f04d7026466b",
+      "categories": [
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "22847906-dd9a-4a5a-a1ce-e545ef1826aa",
+          "name": "Caf\u00e9 Coffee Day"
+        }
+      ],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1078,
+      "geocodes": {
+        "main": {
+          "latitude": 13.068863,
+          "longitude": 80.241626
+        },
+        "roof": {
+          "latitude": 13.068863,
+          "longitude": 80.241626
+        }
+      },
+      "link": "/v3/places/4ce91652e888f04d7026466b",
+      "location": {
+        "address": "Shoppers Stop, Harrington Road",
+        "address_extended": "3rd Floor",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "Shoppers Stop, Harrington Road, Chennai 600031, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600031",
+        "region": "Tamil Nadu"
+      },
+      "name": "Caf\u00e9 Coffee Day",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4c5aa215b1aa9c7402640c49",
+      "categories": [
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "22847906-dd9a-4a5a-a1ce-e545ef1826aa",
+          "name": "Caf\u00e9 Coffee Day"
+        }
+      ],
+      "closed_bucket": "LikelyOpen",
+      "distance": 703,
+      "geocodes": {
+        "main": {
+          "latitude": 13.082105,
+          "longitude": 80.233326
+        },
+        "roof": {
+          "latitude": 13.082105,
+          "longitude": 80.233326
+        }
+      },
+      "link": "/v3/places/4c5aa215b1aa9c7402640c49",
+      "location": {
+        "address": "Mummy Daddy",
+        "country": "IN",
+        "cross_street": "Kilpauk",
+        "formatted_address": "Mummy Daddy (Kilpauk), Chennai 941735, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "941735",
+        "region": "Tamil Nadu"
+      },
+      "name": "Caf\u00e9 Coffee Day",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "5a0729ce4420d83e4c6626d2",
+      "categories": [
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "22847906-dd9a-4a5a-a1ce-e545ef1826aa",
+          "name": "Caf\u00e9 Coffee Day"
+        }
+      ],
+      "closed_bucket": "LikelyOpen",
+      "distance": 810,
+      "geocodes": {
+        "main": {
+          "latitude": 13.069462,
+          "longitude": 80.238092
+        },
+        "roof": {
+          "latitude": 13.069462,
+          "longitude": 80.238092
+        }
+      },
+      "link": "/v3/places/5a0729ce4420d83e4c6626d2",
+      "location": {
+        "country": "IN",
+        "cross_street": "13th avenue, Harrington road",
+        "formatted_address": "13th avenue, Harrington road, Chennai 600031, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600031",
+        "region": "Tamil Nadu"
+      },
+      "name": "Caf\u00e9 Coffee Day",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    }
+  ]
+}

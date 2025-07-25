@@ -1,0 +1,203 @@
+{
+  "timestamp": "2025-07-24T14:48:18.695899",
+  "query": "biryani shope near me ",
+  "latitude": 13.123571874386323,
+  "longitude": 80.15245704957638,
+  "results": [
+    {
+      "fsq_id": "54437b73498e5512d2877761",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2097,
+      "geocodes": {
+        "main": {
+          "latitude": 13.127469,
+          "longitude": 80.154369
+        },
+        "roof": {
+          "latitude": 13.127469,
+          "longitude": 80.154369
+        }
+      },
+      "link": "/v3/places/54437b73498e5512d2877761",
+      "location": {
+        "address": "308 Near Ambattur Market",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "308 Near Ambattur Market, Chennai 600053, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "SS Hyderabad Biryani Pvt. Ltd.",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "1311a57064d343285b5e9560",
+      "categories": [],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 157,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 13.123422,
+          "longitude": 80.150832
+        },
+        "main": {
+          "latitude": 13.123399,
+          "longitude": 80.151009
+        },
+        "roof": {
+          "latitude": 13.123399,
+          "longitude": 80.151009
+        }
+      },
+      "link": "/v3/places/1311a57064d343285b5e9560",
+      "location": {
+        "address": "No.75, Ot Bus Stand Mounasamy, Madam Street",
+        "country": "IN",
+        "formatted_address": "No.75, Ot Bus Stand Mounasamy, Madam Street, Ambattur 600053, Tamil Nadu",
+        "locality": "Ambattur",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "Behrouz Biryani (Ambattur)",
+      "related_places": {}
+    },
+    {
+      "fsq_id": "3e53b4d0d30c4afd70caa20b",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 447,
+      "geocodes": {
+        "main": {
+          "latitude": 13.122945,
+          "longitude": 80.148372
+        },
+        "roof": {
+          "latitude": 13.122945,
+          "longitude": 80.148372
+        }
+      },
+      "link": "/v3/places/3e53b4d0d30c4afd70caa20b",
+      "location": {
+        "address": "Vimayaga Puram",
+        "country": "IN",
+        "formatted_address": "Vimayaga Puram, Chennai 600053, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "Ambur Biryani",
+      "related_places": {}
+    },
+    {
+      "fsq_id": "85a213a55fab4f80fbde6e3b",
+      "categories": [
+        {
+          "id": 13199,
+          "name": "Indian Restaurant",
+          "short_name": "Indian",
+          "plural_name": "Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 476,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 13.127495,
+          "longitude": 80.153966
+        },
+        "main": {
+          "latitude": 13.127652,
+          "longitude": 80.153818
+        },
+        "roof": {
+          "latitude": 13.127652,
+          "longitude": 80.153818
+        }
+      },
+      "link": "/v3/places/85a213a55fab4f80fbde6e3b",
+      "location": {
+        "address": "Red Hills Road",
+        "address_extended": "Near Ambedkar Statue, Oragadam",
+        "country": "IN",
+        "formatted_address": "Red Hills Road, Chennai 600053, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "Mannas Biryani",
+      "related_places": {}
+    },
+    {
+      "fsq_id": "e9ff1b77d62642c4962df5c9",
+      "categories": [
+        {
+          "id": 17000,
+          "name": "Retail",
+          "short_name": "Retail",
+          "plural_name": "Retail",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 477,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 13.119821,
+          "longitude": 80.150122
+        },
+        "main": {
+          "latitude": 13.119918,
+          "longitude": 80.150138
+        }
+      },
+      "link": "/v3/places/e9ff1b77d62642c4962df5c9",
+      "location": {
+        "address": "North Park Street",
+        "country": "IN",
+        "formatted_address": "North Park Street, Chennai 600053, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "Look and Me Menswear",
+      "related_places": {}
+    }
+  ]
+}

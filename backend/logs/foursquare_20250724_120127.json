@@ -1,0 +1,210 @@
+{
+  "timestamp": "2025-07-24T12:01:27.397519",
+  "query": "kfc near me",
+  "latitude": 13.076022904501773,
+  "longitude": 80.23506088462457,
+  "results": [
+    {
+      "fsq_id": "4c5d5276857ca593e873cccb",
+      "categories": [
+        {
+          "id": 17043,
+          "name": "Clothing Store",
+          "short_name": "Apparel",
+          "plural_name": "Clothing Stores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/apparel_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 73,
+      "geocodes": {
+        "main": {
+          "latitude": 13.075884,
+          "longitude": 80.235643
+        },
+        "roof": {
+          "latitude": 13.075884,
+          "longitude": 80.235643
+        }
+      },
+      "link": "/v3/places/4c5d5276857ca593e873cccb",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "075857",
+        "postcode": "075857"
+      },
+      "name": "Mensclub Clothing Company",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "57efa535498ef61533b06161",
+      "categories": [
+        {
+          "id": 11109,
+          "name": "Laboratory",
+          "short_name": "Laboratory",
+          "plural_name": "Laboratories",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 182,
+      "geocodes": {
+        "main": {
+          "latitude": 13.07596,
+          "longitude": 80.236604
+        },
+        "roof": {
+          "latitude": 13.07596,
+          "longitude": 80.236604
+        }
+      },
+      "link": "/v3/places/57efa535498ef61533b06161",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "236746",
+        "postcode": "236746"
+      },
+      "name": "Medall",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "51188649e4b0805e2052ce26",
+      "categories": [
+        {
+          "id": 15014,
+          "name": "Hospital",
+          "short_name": "Hospital",
+          "plural_name": "Hospitals",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 271,
+      "geocodes": {
+        "main": {
+          "latitude": 13.075705,
+          "longitude": 80.237495
+        },
+        "roof": {
+          "latitude": 13.075705,
+          "longitude": 80.237495
+        }
+      },
+      "link": "/v3/places/51188649e4b0805e2052ce26",
+      "location": {
+        "address": "New Avadi Road",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "New Avadi Road, 075769",
+        "postcode": "075769"
+      },
+      "name": "Sundaram Medical Foundation",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "5b434d5af62f2b002c391181",
+      "categories": [
+        {
+          "id": 19047,
+          "name": "Rail Station",
+          "short_name": "Rail Station",
+          "plural_name": "Rail Stations",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/trainstation_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 292,
+      "geocodes": {
+        "main": {
+          "latitude": 13.075084,
+          "longitude": 80.232515
+        }
+      },
+      "link": "/v3/places/5b434d5af62f2b002c391181",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "931735, Tamil Nadu",
+        "postcode": "931735",
+        "region": "Tamil Nadu"
+      },
+      "name": "Pachaiyappa's Metro",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4c80d739f9b79c747ddd0e45",
+      "categories": [
+        {
+          "id": 13055,
+          "name": "Fried Chicken Joint",
+          "short_name": "Fried Chicken",
+          "plural_name": "Fried Chicken Joints",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/friedchicken_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "short_name": "Fast Food",
+          "plural_name": "Fast Food Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "ab4beec0-d68a-012e-5619-003048cad9da",
+          "name": "KFC"
+        }
+      ],
+      "closed_bucket": "LikelyOpen",
+      "distance": 899,
+      "geocodes": {
+        "main": {
+          "latitude": 13.072318,
+          "longitude": 80.227674
+        }
+      },
+      "link": "/v3/places/4c80d739f9b79c747ddd0e45",
+      "location": {
+        "address": "Ampa Mall",
+        "country": "IN",
+        "cross_street": "Aminjakarai",
+        "formatted_address": "Ampa Mall (Aminjakarai), Chennai 941735, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "941735",
+        "region": "Tamil Nadu"
+      },
+      "name": "KFC",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    }
+  ]
+}

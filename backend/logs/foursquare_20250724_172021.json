@@ -1,0 +1,189 @@
+{
+  "timestamp": "2025-07-24T17:20:21.285129",
+  "query": "hyderabad biryani shop near me ",
+  "latitude": 13.12362482593412,
+  "longitude": 80.1524264398725,
+  "results": [
+    {
+      "fsq_id": "54437b73498e5512d2877761",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2092,
+      "geocodes": {
+        "main": {
+          "latitude": 13.127469,
+          "longitude": 80.154369
+        },
+        "roof": {
+          "latitude": 13.127469,
+          "longitude": 80.154369
+        }
+      },
+      "link": "/v3/places/54437b73498e5512d2877761",
+      "location": {
+        "address": "308 Near Ambattur Market",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "308 Near Ambattur Market, Chennai 600053, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "SS Hyderabad Biryani Pvt. Ltd.",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "512cd451e4b0a8adf6636bbb",
+      "categories": [
+        {
+          "id": 13199,
+          "name": "Indian Restaurant",
+          "short_name": "Indian",
+          "plural_name": "Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2116,
+      "geocodes": {
+        "main": {
+          "latitude": 13.128763,
+          "longitude": 80.133514
+        }
+      },
+      "link": "/v3/places/512cd451e4b0a8adf6636bbb",
+      "location": {
+        "address": "Thirumullaivoyal",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "Thirumullaivoyal, Chennai 600062, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600062",
+        "region": "Tamil Nadu"
+      },
+      "name": "Hyderabad briyani",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "1311a57064d343285b5e9560",
+      "categories": [],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 155,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 13.123422,
+          "longitude": 80.150832
+        },
+        "main": {
+          "latitude": 13.123399,
+          "longitude": 80.151009
+        },
+        "roof": {
+          "latitude": 13.123399,
+          "longitude": 80.151009
+        }
+      },
+      "link": "/v3/places/1311a57064d343285b5e9560",
+      "location": {
+        "address": "No.75, Ot Bus Stand Mounasamy, Madam Street",
+        "country": "IN",
+        "formatted_address": "No.75, Ot Bus Stand Mounasamy, Madam Street, Ambattur 600053, Tamil Nadu",
+        "locality": "Ambattur",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "Behrouz Biryani (Ambattur)",
+      "related_places": {}
+    },
+    {
+      "fsq_id": "2bdd445dcd234c939237ebb9",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyClosed",
+      "distance": 240,
+      "geocodes": {
+        "main": {
+          "latitude": 13.121624,
+          "longitude": 80.15157
+        }
+      },
+      "link": "/v3/places/2bdd445dcd234c939237ebb9",
+      "location": {
+        "address": "No Sv, 127, Ambattur Red Hills Road, Vijayalakshmi Puram",
+        "address_extended": "Near Sethubaskara High School",
+        "country": "IN",
+        "formatted_address": "No Sv, 127, Ambattur Red Hills Road, Vijayalakshmi Puram, Chennai 600053, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "Thaqwa Biryani",
+      "related_places": {}
+    },
+    {
+      "fsq_id": "e4e45882141744855a8bd618",
+      "categories": [
+        {
+          "id": 17000,
+          "name": "Retail",
+          "short_name": "Retail",
+          "plural_name": "Retail",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 415,
+      "geocodes": {
+        "main": {
+          "latitude": 13.12123,
+          "longitude": 80.149478
+        }
+      },
+      "link": "/v3/places/e4e45882141744855a8bd618",
+      "location": {
+        "address": "3B, Old Township Road",
+        "country": "IN",
+        "formatted_address": "3B, Old Township Road, Chennai 600053, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600053",
+        "region": "Tamil Nadu"
+      },
+      "name": "Meera Bokeh Shop",
+      "related_places": {}
+    }
+  ]
+}

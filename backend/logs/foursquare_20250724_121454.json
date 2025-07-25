@@ -1,0 +1,249 @@
+{
+  "timestamp": "2025-07-24T12:14:54.067219",
+  "query": "cafe",
+  "latitude": 13.076024223019033,
+  "longitude": 80.23505861717584,
+  "results": [
+    {
+      "fsq_id": "4ba5ea5af964a5201c2939e3",
+      "categories": [
+        {
+          "id": 13199,
+          "name": "Indian Restaurant",
+          "short_name": "Indian",
+          "plural_name": "Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3358,
+      "geocodes": {
+        "main": {
+          "latitude": 13.05547,
+          "longitude": 80.257931
+        },
+        "roof": {
+          "latitude": 13.05547,
+          "longitude": 80.257931
+        }
+      },
+      "link": "/v3/places/4ba5ea5af964a5201c2939e3",
+      "location": {
+        "address": "8, Spi Cinemas, Sathyam Cinemas, Thiru-vi-ka Road, Royapettah",
+        "address_extended": "5th Floor",
+        "country": "IN",
+        "formatted_address": "8, Spi Cinemas, Sathyam Cinemas, Thiru-vi-ka Road, Royapettah, Chennai 600014, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600014",
+        "region": "Tamil Nadu"
+      },
+      "name": "Blur Cafe",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4d3adc4a720f60fc225cf3dd",
+      "categories": [
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3358,
+      "geocodes": {
+        "main": {
+          "latitude": 13.057243,
+          "longitude": 80.259378
+        },
+        "roof": {
+          "latitude": 13.057243,
+          "longitude": 80.259378
+        }
+      },
+      "link": "/v3/places/4d3adc4a720f60fc225cf3dd",
+      "location": {
+        "address": "Royapettah",
+        "country": "IN",
+        "cross_street": "Whites Rd",
+        "formatted_address": "Royapettah (Whites Rd), Chennai 941735, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "941735",
+        "region": "Tamil Nadu"
+      },
+      "name": "Amethyst Cafe",
+      "related_places": {
+        "children": [
+          {
+            "fsq_id": "5c595aac42d8c2002c3b7095",
+            "categories": [
+              {
+                "id": 17000,
+                "name": "Retail",
+                "short_name": "Retail",
+                "plural_name": "Retail",
+                "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+                  "suffix": ".png"
+                }
+              }
+            ],
+            "name": "Amethyst"
+          }
+        ]
+      },
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "53776c5b11d201915aba63d0",
+      "categories": [
+        {
+          "id": 13002,
+          "name": "Bakery",
+          "short_name": "Bakery",
+          "plural_name": "Bakeries",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2502,
+      "geocodes": {
+        "main": {
+          "latitude": 13.091953,
+          "longitude": 80.218916
+        },
+        "roof": {
+          "latitude": 13.091953,
+          "longitude": 80.218916
+        }
+      },
+      "link": "/v3/places/53776c5b11d201915aba63d0",
+      "location": {
+        "address": "21/11, J Block, 6th Avenue Main Road, Anna Nagar East",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "21/11, J Block, 6th Avenue Main Road, Anna Nagar East, Chennai 600102, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600102",
+        "region": "Tamil Nadu"
+      },
+      "name": "Pantry D'or",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "551d2b13498e3ebc8f2ac5c5",
+      "categories": [
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2476,
+      "geocodes": {
+        "main": {
+          "latitude": 13.090135,
+          "longitude": 80.217518
+        },
+        "roof": {
+          "latitude": 13.090135,
+          "longitude": 80.217518
+        }
+      },
+      "link": "/v3/places/551d2b13498e3ebc8f2ac5c5",
+      "location": {
+        "address": "T-2, 4th Main Road, Block T",
+        "country": "IN",
+        "cross_street": "Anna Nagar",
+        "formatted_address": "T-2, 4th Main Road, Block T (Anna Nagar), Chennai 600040, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600040",
+        "region": "Tamil Nadu"
+      },
+      "name": "Coco Jaunt 1728",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "541447de498e60ee78c88c44",
+      "categories": [
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1303,
+      "geocodes": {
+        "main": {
+          "latitude": 13.064827,
+          "longitude": 80.239098
+        },
+        "roof": {
+          "latitude": 13.064827,
+          "longitude": 80.239098
+        }
+      },
+      "link": "/v3/places/541447de498e60ee78c88c44",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "941735",
+        "postcode": "941735"
+      },
+      "name": "Crisp Cafe",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    }
+  ]
+}

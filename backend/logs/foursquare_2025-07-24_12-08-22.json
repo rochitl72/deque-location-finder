@@ -1,0 +1,42 @@
+{
+    "query": "Find cozy cafes",
+    "results": [
+        {
+            "fsq_id": "4e00a280b61c1fbe8dfadeee",
+            "categories": [
+                {
+                    "id": 13377,
+                    "name": "Vegan and Vegetarian Restaurant",
+                    "short_name": "Vegan and Vegetarian Restaurant",
+                    "plural_name": "Vegan and Vegetarian Restaurants",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/vegetarian_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "closed_bucket": "LikelyOpen",
+            "distance": 2181,
+            "geocodes": {
+                "main": {
+                    "latitude": 13.014569,
+                    "longitude": 80.238377
+                },
+                "roof": {
+                    "latitude": 13.014569,
+                    "longitude": 80.238377
+                }
+            },
+            "link": "/v3/places/4e00a280b61c1fbe8dfadeee",
+            "location": {
+                "country": "IN",
+                "cross_street": "",
+                "formatted_address": ""
+            },
+            "name": "cafe Sri Krishna",
+            "related_places": {},
+            "timezone": "Asia/Kolkata"
+        }
+    ]
+}

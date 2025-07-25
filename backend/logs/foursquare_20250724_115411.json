@@ -1,0 +1,206 @@
+{
+  "timestamp": "2025-07-24T11:54:11.108349",
+  "query": "biryani shops",
+  "latitude": 13.0067,
+  "longitude": 80.257,
+  "results": [
+    {
+      "fsq_id": "52727e0e498e31f1488476df",
+      "categories": [
+        {
+          "id": 13199,
+          "name": "Indian Restaurant",
+          "short_name": "Indian",
+          "plural_name": "Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 428,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 13.006462,
+          "longitude": 80.253062
+        },
+        "main": {
+          "latitude": 13.00628,
+          "longitude": 80.253067
+        },
+        "roof": {
+          "latitude": 13.00628,
+          "longitude": 80.253067
+        }
+      },
+      "link": "/v3/places/52727e0e498e31f1488476df",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "941735",
+        "postcode": "941735"
+      },
+      "name": "Ammi's Biryani",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4f152a3ae4b0d3f8a92162df",
+      "categories": [
+        {
+          "id": 13199,
+          "name": "Indian Restaurant",
+          "short_name": "Indian",
+          "plural_name": "Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 672,
+      "geocodes": {
+        "main": {
+          "latitude": 13.000805,
+          "longitude": 80.258913
+        },
+        "roof": {
+          "latitude": 13.000805,
+          "longitude": 80.258913
+        }
+      },
+      "link": "/v3/places/4f152a3ae4b0d3f8a92162df",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "Ady\u0101r 941735, Tamil Nadu",
+        "locality": "Ady\u0101r",
+        "postcode": "941735",
+        "region": "Tamil Nadu"
+      },
+      "name": "A1 Biryani Center",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "52a34195498e1c34ee23cec1",
+      "categories": [
+        {
+          "id": 13026,
+          "name": "BBQ Joint",
+          "short_name": "BBQ",
+          "plural_name": "BBQ Joints",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bbqalt_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1204,
+      "geocodes": {
+        "main": {
+          "latitude": 12.995756,
+          "longitude": 80.256105
+        },
+        "roof": {
+          "latitude": 12.995756,
+          "longitude": 80.256105
+        }
+      },
+      "link": "/v3/places/52a34195498e1c34ee23cec1",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "931735",
+        "postcode": "931735"
+      },
+      "name": "Barbeque N Biryani",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "e5709358e5dc4be26bf20043",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 92,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 13.006486,
+          "longitude": 80.256178
+        },
+        "main": {
+          "latitude": 13.00646,
+          "longitude": 80.256178
+        }
+      },
+      "link": "/v3/places/e5709358e5dc4be26bf20043",
+      "location": {
+        "address": "6/118, Sardhar Patel Road",
+        "country": "IN",
+        "formatted_address": "6/118, Sardhar Patel Road, Chennai 600020, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600020",
+        "region": "Tamil Nadu"
+      },
+      "name": "Ds Biryani",
+      "related_places": {}
+    },
+    {
+      "fsq_id": "3cbe942728584aa284ead6c3",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 145,
+      "geocodes": {
+        "main": {
+          "latitude": 13.005491,
+          "longitude": 80.257505
+        },
+        "roof": {
+          "latitude": 13.005491,
+          "longitude": 80.257505
+        }
+      },
+      "link": "/v3/places/3cbe942728584aa284ead6c3",
+      "location": {
+        "address": "Kr Building, Lattice Bridge Road",
+        "country": "IN",
+        "formatted_address": "Kr Building, Lattice Bridge Road, Chennai 600020, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600020",
+        "region": "Tamil Nadu"
+      },
+      "name": "Adyar Biryani",
+      "related_places": {}
+    }
+  ]
+}

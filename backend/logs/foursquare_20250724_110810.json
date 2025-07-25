@@ -1,0 +1,123 @@
+{
+  "timestamp": "2025-07-24T11:08:10.047727",
+  "query": "Find top cafes",
+  "latitude": 13.0067,
+  "longitude": 80.257,
+  "results": [
+    {
+      "fsq_id": "81066b1b9a3d443006d58c81",
+      "categories": [
+        {
+          "id": 19018,
+          "name": "Resort",
+          "short_name": "Resort",
+          "plural_name": "Resorts",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/resort_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 614,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 13.006856,
+          "longitude": 80.251324
+        },
+        "main": {
+          "latitude": 13.006989,
+          "longitude": 80.251329
+        },
+        "roof": {
+          "latitude": 13.006989,
+          "longitude": 80.251329
+        }
+      },
+      "link": "/v3/places/81066b1b9a3d443006d58c81",
+      "location": {
+        "address": "18 Sardar Patel Road",
+        "country": "IN",
+        "formatted_address": "18 Sardar Patel Road, Chennai 600020, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600020",
+        "region": "Tamil Nadu"
+      },
+      "name": "Saloon Topaz",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4e8dd9d7d22d2a85bdcca526",
+      "categories": [
+        {
+          "id": 13199,
+          "name": "Indian Restaurant",
+          "short_name": "Indian",
+          "plural_name": "Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 886,
+      "geocodes": {
+        "main": {
+          "latitude": 12.99874,
+          "longitude": 80.25622
+        }
+      },
+      "link": "/v3/places/4e8dd9d7d22d2a85bdcca526",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "941735",
+        "postcode": "941735"
+      },
+      "name": "Topsee Restaurant",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "5102b6ece4b0abd084091859",
+      "categories": [
+        {
+          "id": 17134,
+          "name": "Tobacco Store",
+          "short_name": "Tobacco Store",
+          "plural_name": "Tobacco Stores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/tobacco_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 952,
+      "geocodes": {
+        "main": {
+          "latitude": 12.998303,
+          "longitude": 80.25583
+        },
+        "roof": {
+          "latitude": 12.998303,
+          "longitude": 80.25583
+        }
+      },
+      "link": "/v3/places/5102b6ece4b0abd084091859",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "Hotel Topsee Potti Kadai",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    }
+  ]
+}

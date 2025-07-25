@@ -1,0 +1,248 @@
+{
+  "timestamp": "2025-07-24T11:53:33.876276",
+  "query": "cafe near my for working ",
+  "latitude": 13.0067,
+  "longitude": 80.257,
+  "results": [
+    {
+      "fsq_id": "4e0efd0022711665f619fb56",
+      "categories": [
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "short_name": "Restaurant",
+          "plural_name": "Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 810,
+      "geocodes": {
+        "main": {
+          "latitude": 13.00106,
+          "longitude": 80.254713
+        },
+        "roof": {
+          "latitude": 13.00106,
+          "longitude": 80.254713
+        }
+      },
+      "link": "/v3/places/4e0efd0022711665f619fb56",
+      "location": {
+        "address": "No 25, 2nd Street, Kamaraj Avenue",
+        "country": "IN",
+        "cross_street": "Kamaraj Avenue, Adyar",
+        "formatted_address": "No 25, 2nd Street, Kamaraj Avenue (Kamaraj Avenue, Adyar), Chennai 600020, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600020",
+        "region": "Tamil Nadu"
+      },
+      "name": "Zha Cafe",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4c5d21ac7735c9b6d9518e72",
+      "categories": [
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "22847906-dd9a-4a5a-a1ce-e545ef1826aa",
+          "name": "Caf\u00e9 Coffee Day"
+        }
+      ],
+      "closed_bucket": "LikelyOpen",
+      "distance": 410,
+      "geocodes": {
+        "main": {
+          "latitude": 13.01003,
+          "longitude": 80.258783
+        },
+        "roof": {
+          "latitude": 13.01003,
+          "longitude": 80.258783
+        }
+      },
+      "link": "/v3/places/4c5d21ac7735c9b6d9518e72",
+      "location": {
+        "address": "52, 1st Main Road, Gandhi Nagar, Fortis Malar Hospital",
+        "address_extended": "1st Floor",
+        "country": "IN",
+        "cross_street": "1st Main Road, Gandhi Nagar",
+        "formatted_address": "52, 1st Main Road, Gandhi Nagar, Fortis Malar Hospital (1st Main Road, Gandhi Nagar), Chennai 600020, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600020",
+        "region": "Tamil Nadu"
+      },
+      "name": "Caf\u00e9 Coffee Day",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "5ef63c077d1ced000880a53c",
+      "categories": [
+        {
+          "id": 19055,
+          "name": "Travel Agency",
+          "short_name": "Travel Agency",
+          "plural_name": "Travel Agencies",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/travelagency_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 258,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 13.005947,
+          "longitude": 80.25467
+        },
+        "main": {
+          "latitude": 13.005947,
+          "longitude": 80.254826
+        },
+        "roof": {
+          "latitude": 13.005947,
+          "longitude": 80.254826
+        }
+      },
+      "link": "/v3/places/5ef63c077d1ced000880a53c",
+      "location": {
+        "address": "Flat 9/9, Gr Floor Dev Apartments, Main Road, Kasturba",
+        "country": "IN",
+        "cross_street": "Adyar",
+        "formatted_address": "Flat 9/9, Gr Floor Dev Apartments, Main Road, Kasturba (Adyar), Chennai 620020, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "620020",
+        "region": "Tamil Nadu"
+      },
+      "name": "SOTC For Holidays",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4fce2459e4b0aabd96822e1f",
+      "categories": [
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1365,
+      "geocodes": {
+        "main": {
+          "latitude": 13.004138,
+          "longitude": 80.269444
+        },
+        "roof": {
+          "latitude": 13.004138,
+          "longitude": 80.269444
+        }
+      },
+      "link": "/v3/places/4fce2459e4b0aabd96822e1f",
+      "location": {
+        "address": "4 3rd Avenue, Besant Nagar, Urur Village",
+        "country": "IN",
+        "cross_street": "Besant Nagar",
+        "formatted_address": "4 3rd Avenue, Besant Nagar, Urur Village (Besant Nagar), Chennai 600020, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600020",
+        "region": "Tamil Nadu"
+      },
+      "name": "Cafe Coffee Day The Lounge",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4cda5d4bcea2224b2e207f4c",
+      "categories": [
+        {
+          "id": 13035,
+          "name": "Coffee Shop",
+          "short_name": "Coffee Shop",
+          "plural_name": "Coffee Shops",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13034,
+          "name": "Caf\u00e9",
+          "short_name": "Caf\u00e9",
+          "plural_name": "Caf\u00e9s",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "22847906-dd9a-4a5a-a1ce-e545ef1826aa",
+          "name": "Caf\u00e9 Coffee Day"
+        }
+      ],
+      "closed_bucket": "LikelyOpen",
+      "distance": 935,
+      "geocodes": {
+        "main": {
+          "latitude": 12.999794,
+          "longitude": 80.251839
+        },
+        "roof": {
+          "latitude": 12.999794,
+          "longitude": 80.251839
+        }
+      },
+      "link": "/v3/places/4cda5d4bcea2224b2e207f4c",
+      "location": {
+        "address": "56/64, 1st Avenue, Indira",
+        "country": "IN",
+        "cross_street": "Adyar",
+        "formatted_address": "56/64, 1st Avenue, Indira (Adyar), Chennai 600020, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600020",
+        "region": "Tamil Nadu"
+      },
+      "name": "Caf\u00e9 Coffee Day",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    }
+  ]
+}

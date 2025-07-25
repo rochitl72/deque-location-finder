@@ -1,0 +1,128 @@
+{
+  "timestamp": "2025-07-24T11:22:21.485062",
+  "query": "Find movie theatres",
+  "latitude": 13.0067,
+  "longitude": 80.257,
+  "results": [
+    {
+      "fsq_id": "4d9d7c8d48b6224b5032259f",
+      "categories": [
+        {
+          "id": 17027,
+          "name": "Video Games Store",
+          "short_name": "Video Game Store",
+          "plural_name": "Video Game Stores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/videogames_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2417,
+      "geocodes": {
+        "main": {
+          "latitude": 13.028532,
+          "longitude": 80.256291
+        },
+        "roof": {
+          "latitude": 13.028532,
+          "longitude": 80.256291
+        }
+      },
+      "link": "/v3/places/4d9d7c8d48b6224b5032259f",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "951735",
+        "postcode": "951735"
+      },
+      "name": "Tic Tac movie rentals",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4bbde6c77ca1429efa7284b8",
+      "categories": [
+        {
+          "id": 17000,
+          "name": "Retail",
+          "short_name": "Retail",
+          "plural_name": "Retail",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 1688,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 13.021698,
+          "longitude": 80.259138
+        },
+        "main": {
+          "latitude": 13.021748,
+          "longitude": 80.259135
+        },
+        "roof": {
+          "latitude": 13.021748,
+          "longitude": 80.259135
+        }
+      },
+      "link": "/v3/places/4bbde6c77ca1429efa7284b8",
+      "location": {
+        "address": "New 6, Old 16, Vishwanathan Street, Ra Puram",
+        "country": "IN",
+        "formatted_address": "New 6, Old 16, Vishwanathan Street, Ra Puram, Chennai 600028, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600028",
+        "region": "Tamil Nadu"
+      },
+      "name": "Two Movie Buffs",
+      "related_places": {}
+    },
+    {
+      "fsq_id": "c83cbd4703b441f35100f06d",
+      "categories": [
+        {
+          "id": 17000,
+          "name": "Retail",
+          "short_name": "Retail",
+          "plural_name": "Retail",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 2176,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 13.026376,
+          "longitude": 80.257057
+        },
+        "main": {
+          "latitude": 13.026289,
+          "longitude": 80.256928
+        }
+      },
+      "link": "/v3/places/c83cbd4703b441f35100f06d",
+      "location": {
+        "address": "Ra Puram 3rd Cross Street",
+        "country": "IN",
+        "formatted_address": "Ra Puram 3rd Cross Street, Chennai 600028, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600028",
+        "region": "Tamil Nadu"
+      },
+      "name": "Tic Tac Movie Rentals",
+      "related_places": {}
+    }
+  ]
+}

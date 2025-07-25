@@ -1,0 +1,212 @@
+{
+  "timestamp": "2025-07-25T04:57:34.633026",
+  "query": "medical clinics near me ",
+  "latitude": 13.075997296281978,
+  "longitude": 80.23500644516558,
+  "results": [
+    {
+      "fsq_id": "51188649e4b0805e2052ce26",
+      "categories": [
+        {
+          "id": 15014,
+          "name": "Hospital",
+          "short_name": "Hospital",
+          "plural_name": "Hospitals",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 277,
+      "geocodes": {
+        "main": {
+          "latitude": 13.075705,
+          "longitude": 80.237495
+        },
+        "roof": {
+          "latitude": 13.075705,
+          "longitude": 80.237495
+        }
+      },
+      "link": "/v3/places/51188649e4b0805e2052ce26",
+      "location": {
+        "address": "New Avadi Road",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "New Avadi Road, 075769",
+        "postcode": "075769"
+      },
+      "name": "Sundaram Medical Foundation",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "50322fd0e4b0a9ac004db443",
+      "categories": [
+        {
+          "id": 15014,
+          "name": "Hospital",
+          "short_name": "Hospital",
+          "plural_name": "Hospitals",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 361,
+      "geocodes": {
+        "main": {
+          "latitude": 13.074422,
+          "longitude": 80.232372
+        },
+        "roof": {
+          "latitude": 13.074422,
+          "longitude": 80.232372
+        }
+      },
+      "link": "/v3/places/50322fd0e4b0a9ac004db443",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "Chennai 232129, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "232129",
+        "region": "Tamil Nadu"
+      },
+      "name": "Sundaram Medical Foundation (Children's Hospital)",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "514c8292e4b07ab0c0011460",
+      "categories": [
+        {
+          "id": 17035,
+          "name": "Drugstore",
+          "short_name": "Drugstore",
+          "plural_name": "Drugstores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/pharmacy_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 738,
+      "geocodes": {
+        "drop_off": {
+          "latitude": 13.079601,
+          "longitude": 80.240741
+        },
+        "main": {
+          "latitude": 13.079598,
+          "longitude": 80.240879
+        },
+        "roof": {
+          "latitude": 13.079598,
+          "longitude": 80.240879
+        }
+      },
+      "link": "/v3/places/514c8292e4b07ab0c0011460",
+      "location": {
+        "address": "8 Vasu Street Kilpauk",
+        "country": "IN",
+        "cross_street": "Kilpauk",
+        "formatted_address": "8 Vasu Street Kilpauk (Kilpauk), Chennai 600010, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600010",
+        "region": "Tamil Nadu"
+      },
+      "name": "City Medical Store",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "50e6c8fbe4b06d2833641f28",
+      "categories": [
+        {
+          "id": 12045,
+          "name": "Medical School",
+          "short_name": "Medical School",
+          "plural_name": "Medical Schools",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/building/medical_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 838,
+      "geocodes": {
+        "main": {
+          "latitude": 13.078654,
+          "longitude": 80.242092
+        },
+        "roof": {
+          "latitude": 13.078654,
+          "longitude": 80.242092
+        }
+      },
+      "link": "/v3/places/50e6c8fbe4b06d2833641f28",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": ""
+      },
+      "name": "Kilpauk Medical College",
+      "related_places": {
+        "children": []
+      },
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "e30bd7aad6ea4ffc9e2af6d1",
+      "categories": [
+        {
+          "id": 12013,
+          "name": "College and University",
+          "short_name": "College & Education",
+          "plural_name": "Colleges and Universities",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/education/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 977,
+      "geocodes": {
+        "main": {
+          "latitude": 13.078279,
+          "longitude": 80.243725
+        },
+        "roof": {
+          "latitude": 13.078279,
+          "longitude": 80.243725
+        }
+      },
+      "link": "/v3/places/e30bd7aad6ea4ffc9e2af6d1",
+      "location": {
+        "address": "822 Poonamallee High Road",
+        "address_extended": "Near Ega Theatre, Kilpauk",
+        "country": "IN",
+        "formatted_address": "822 Poonamallee High Road, Chennai 600010, Tamil Nadu",
+        "locality": "Chennai",
+        "postcode": "600010",
+        "region": "Tamil Nadu"
+      },
+      "name": "Government Kilpauk Medical College",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    }
+  ]
+}

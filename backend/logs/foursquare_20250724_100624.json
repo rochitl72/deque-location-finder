@@ -1,0 +1,207 @@
+[
+  {
+    "fsq_id": "4f784900e4b087957b6a75a0",
+    "categories": [
+      {
+        "id": 17000,
+        "name": "Retail",
+        "short_name": "Retail",
+        "plural_name": "Retail",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "LikelyOpen",
+    "distance": 649,
+    "geocodes": {
+      "drop_off": {
+        "latitude": 13.007766,
+        "longitude": 80.251126
+      },
+      "main": {
+        "latitude": 13.007655,
+        "longitude": 80.251119
+      },
+      "roof": {
+        "latitude": 13.007655,
+        "longitude": 80.251119
+      }
+    },
+    "link": "/v3/places/4f784900e4b087957b6a75a0",
+    "location": {
+      "address": "Purushottam Flats, 64, 2nd Main Road",
+      "country": "IN",
+      "cross_street": "",
+      "formatted_address": "Purushottam Flats, 64, 2nd Main Road, Chennai 600020, Tamil Nadu",
+      "locality": "Chennai",
+      "postcode": "600020",
+      "region": "Tamil Nadu"
+    },
+    "name": "New Popular Hair Dresser",
+    "related_places": {},
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "fsq_id": "45b9c17cd645425ebd5c52a6",
+    "categories": [
+      {
+        "id": 13065,
+        "name": "Restaurant",
+        "short_name": "Restaurant",
+        "plural_name": "Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "LikelyOpen",
+    "distance": 94,
+    "geocodes": {
+      "main": {
+        "latitude": 13.00688,
+        "longitude": 80.256151
+      },
+      "roof": {
+        "latitude": 13.00688,
+        "longitude": 80.256151
+      }
+    },
+    "link": "/v3/places/45b9c17cd645425ebd5c52a6",
+    "location": {
+      "address": "Gandhi Nagar 1st Main Road",
+      "country": "IN",
+      "formatted_address": "Gandhi Nagar 1st Main Road, Chennai 600020, Tamil Nadu",
+      "locality": "Chennai",
+      "postcode": "600020",
+      "region": "Tamil Nadu"
+    },
+    "name": "Shastri Nagar Sharks Restaurants",
+    "related_places": {}
+  },
+  {
+    "fsq_id": "2621496f779a435ecf2d0bd5",
+    "categories": [
+      {
+        "id": 13065,
+        "name": "Restaurant",
+        "short_name": "Restaurant",
+        "plural_name": "Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "LikelyOpen",
+    "distance": 261,
+    "geocodes": {
+      "drop_off": {
+        "latitude": 13.008419,
+        "longitude": 80.258857
+      },
+      "main": {
+        "latitude": 13.008485,
+        "longitude": 80.258567
+      },
+      "roof": {
+        "latitude": 13.008485,
+        "longitude": 80.258567
+      }
+    },
+    "link": "/v3/places/2621496f779a435ecf2d0bd5",
+    "location": {
+      "address": "103/48, Voora Sree Terrace, 1st Main Road",
+      "country": "IN",
+      "formatted_address": "103/48, Voora Sree Terrace, 1st Main Road, Chennai 600020, Tamil Nadu",
+      "locality": "Chennai",
+      "postcode": "600020",
+      "region": "Tamil Nadu"
+    },
+    "name": "The Rendezvous Restaurants",
+    "related_places": {}
+  },
+  {
+    "fsq_id": "2d46eb8f4e624a3edfe729bb",
+    "categories": [
+      {
+        "id": 17000,
+        "name": "Retail",
+        "short_name": "Retail",
+        "plural_name": "Retail",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "LikelyOpen",
+    "distance": 818,
+    "geocodes": {
+      "main": {
+        "latitude": 13.000396,
+        "longitude": 80.253092
+      }
+    },
+    "link": "/v3/places/2d46eb8f4e624a3edfe729bb",
+    "location": {
+      "address": "24 Ground Floor, Corporation Shopping Complex, 3rd Avenue, Indira",
+      "country": "IN",
+      "formatted_address": "24 Ground Floor, Corporation Shopping Complex, 3rd Avenue, Indira, Chennai 600020, Tamil Nadu",
+      "locality": "Chennai",
+      "postcode": "600020",
+      "region": "Tamil Nadu"
+    },
+    "name": "Popular Mechanics",
+    "related_places": {}
+  },
+  {
+    "fsq_id": "89aa0bce50094f93be34ffed",
+    "categories": [
+      {
+        "id": 17000,
+        "name": "Retail",
+        "short_name": "Retail",
+        "plural_name": "Retail",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "LikelyOpen",
+    "distance": 821,
+    "geocodes": {
+      "drop_off": {
+        "latitude": 13.000831,
+        "longitude": 80.25216
+      },
+      "main": {
+        "latitude": 13.001006,
+        "longitude": 80.252161
+      },
+      "roof": {
+        "latitude": 13.001006,
+        "longitude": 80.252161
+      }
+    },
+    "link": "/v3/places/89aa0bce50094f93be34ffed",
+    "location": {
+      "address": "Teachers Colony",
+      "country": "IN",
+      "formatted_address": "Teachers Colony, Chennai 600020, Tamil Nadu",
+      "locality": "Chennai",
+      "postcode": "600020",
+      "region": "Tamil Nadu"
+    },
+    "name": "Popular Hair Dresser",
+    "related_places": {}
+  }
+]
