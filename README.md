@@ -1,4 +1,5 @@
 # DeQue Location Finder
+[Home Page](frontend/public/screenshots/1.jpg)
 DeQue Location Finder is a web application that combines **Foursquare API**, **Leaflet Maps**, and a **chat-based interface** to find and display nearby places (cafes, restaurants, bars, etc.) based on user queries and their current location.  
 It also integrates **OpenRouteService (ORS)** for route planning and directions.
 
@@ -12,7 +13,7 @@ It also integrates **OpenRouteService (ORS)** for route planning and directions.
 - **Dynamic Markers** – Updates markers dynamically based on chatbot responses.
 - **Directions (via ORS API)** – Planned integration of route drawing with blue polyline.
 - **Image Preview (Planned)** – Placeholder for Google Images/Places API integration.
-
+![Chat and Map](frontend/public/screenshots/2.jpg)
 ---
 
 ## **Tech Stack**
@@ -98,10 +99,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-## Screenshots
 
-### Home Page
-![Home Page](frontend/public/screenshots/1.jpg)
-
-### Chat & Map
-![Chat and Map](frontend/public/screenshots/2.jpg)
